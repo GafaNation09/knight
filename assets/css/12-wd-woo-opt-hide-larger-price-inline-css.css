@@ -1,0 +1,4 @@
+
+.hide-larger-price .price:has(.amount~.amount) :is(.amount~.amount,[aria-hidden=true]:not(.amount)){display:none}.hide-larger-price .price:has(.amount~.amount)>small{margin-inline-start:.2em}
+
+/*# sourceURL=https://phonesstorekenya.com/wp-content/themes/woodmart/css/parts/woo-opt-hide-larger-price.css */

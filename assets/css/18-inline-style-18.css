@@ -1,0 +1,13 @@
+.gps-wrapper {
+    display: inline-block;
+    padding: 3px;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #EA4335, #FBBC05, #34A853, #4285F4);
+    line-height: 0;
+}
+
+.gps-wrapper div[google-add-preferred-source-btn] {
+    display: inline-block;
+    background: #fff;
+    border-radius: 999px;
+}
