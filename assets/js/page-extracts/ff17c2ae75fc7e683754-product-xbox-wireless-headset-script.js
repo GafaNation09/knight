@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Xbox Wireless Headset","status":null,"description":"<div class=\"mx-auto flex w-full max-w- flex-1 flex-col px-5 md:px- max-md: max-md: max-md: blank-strip-alone blank-strip-after-empty-stack blank-strip-shown-while-stack-lists pt-1\" data-testid=\"transcript-list\">\r\n<div role=\"feed\" data-perf-region=\"transcript\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\" data-rocksteady-sizer=\"\" data-testid=\"transcript-sizer\">\r\n<div data-rs-index=\"161\" data-index=\"161\" data-testid=\"transcript-row\" data-last-message=\"true\"","currency":"KES","tags":[],"images":[],"variants":{"78195":{"variantID":"78195","title":"Xbox Wireless Headset","status":null,"price":1750000,"imageID":"78421","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Xbox-Wireless-Headset-Price-in-Kenya.png"}},"productID":"78195","productUrl":"https:\/\/phonesstorekenya.com\/product\/xbox-wireless-headset\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

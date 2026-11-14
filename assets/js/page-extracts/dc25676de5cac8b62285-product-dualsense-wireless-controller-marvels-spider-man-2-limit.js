@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"DualSense Wireless Controller - Marvel's Spider-Man 2 Limited Edition","status":null,"description":"<h2>DualSense Wireless Controller - Marvel's Spider-Man 2 Limited Edition Price in Kenya<\/h2>\r\nThe DualSense Wireless Controller - Marvel's Spider-Man 2 Limited Edition price in Kenya is KSh 14,000. This special-edition PlayStation","currency":"KES","tags":[],"images":[],"variants":{"78182":{"variantID":"78182","title":"DualSense Wireless Controller - Marvel's Spider-Man 2 Limited Edition","status":null,"price":1400000,"imageID":"78542","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/DualSense-Wireless-Controller-Marvels-Spider-Man-2-Limited-Edition-Price-in-Kenya.png"}},"productID":"78182","productUrl":"https:\/\/phonesstorekenya.com\/product\/dualsense-wireless-controller-marvels-spider-man-2-limited-edition\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

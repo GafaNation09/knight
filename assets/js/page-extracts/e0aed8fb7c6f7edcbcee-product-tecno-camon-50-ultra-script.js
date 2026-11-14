@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno Camon 50 Ultra","status":null,"description":"<h1 data-section-id=\"9csqyg\" data-start=\"213\" data-end=\"287\">Tecno Camon 50 Ultra Price in Kenya (2026) \u2013 Specs &amp; Overview<\/h1>\r\n<p data-start=\"329\" data-end=\"585\">The Tecno Camon 50 Ultra price in Kenya is KSh 58,000. This powerful mid-range","currency":"KES","tags":[],"images":[],"variants":{"65485":{"variantID":"65485","title":"Tecno Camon 50 Ultra","status":null,"price":5600000,"imageID":"65486","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/02\/Tecno-Camon-50-Ultra.png"}},"productID":"65485","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-camon-50-ultra\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Oraimo Watch Muse Smart Watch","status":null,"description":"<h2>Oraimo Watch Muse Smart Watch Price in Kenya<\/h2>\r\nThe Oraimo Watch Muse Smart Watch price in Kenya is KSh 6,200, bringing a vivid 1.32-inch AMOLED display, a rose gold metal case,","currency":"KES","tags":[],"images":[],"variants":{"79120":{"variantID":"79120","title":"Oraimo Watch Muse Smart Watch","sku":"OSW-831N","status":null,"price":620000,"imageID":"79266","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/11\/Oraimo-Watch-Muse-Smart-Watch-Price-in-Kenya.png"}},"productID":"79120","productUrl":"https:\/\/phonesstorekenya.com\/product\/oraimo-watch-muse-smart-watch\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

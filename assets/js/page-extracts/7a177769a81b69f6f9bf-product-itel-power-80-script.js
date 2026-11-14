@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Itel Power 80","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"174\" aria-posinset=\"174\" aria-label=\"Message 174 of 174\">\r\n<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"176\" aria-posinset=\"176\" aria-label=\"Message 176 of 176\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">itel Power 80 Price","currency":"KES","tags":[],"images":[],"variants":{"78564":{"variantID":"78564","title":"Itel Power 80","status":null,"price":1900000,"imageID":"78566","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Itel-Power-80-Price-in-Kenya-3.png"}},"productID":"78564","productUrl":"https:\/\/phonesstorekenya.com\/product\/itel-power-80\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

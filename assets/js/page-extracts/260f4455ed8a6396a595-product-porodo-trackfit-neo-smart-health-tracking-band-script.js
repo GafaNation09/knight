@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Porodo TrackFit Neo Smart Health Tracking Band","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_3qr_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"34\" aria-posinset=\"34\" aria-label=\"Message 34 of 34\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">Porodo TrackFit Neo Smart Health Tracking Band Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Porodo","currency":"KES","tags":[],"images":[],"variants":{"77729":{"variantID":"77729","title":"Porodo TrackFit Neo Smart Health Tracking Band","status":null,"price":750000,"imageID":"78332","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Porodo-TrackFit-Neo-Smart-Health-Tracking-Band-Price-in-Kenya.png"}},"productID":"77729","productUrl":"https:\/\/phonesstorekenya.com\/product\/porodo-trackfit-neo-smart-health-tracking-band\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

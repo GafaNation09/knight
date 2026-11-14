@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Anker Zolo Charger 30W, PD 3.0","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_3qr_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"38\" aria-posinset=\"38\" aria-label=\"Message 38 of 38\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">Anker Zolo<\/h2>\r\n<div>\r\n<p dir=\"ltr\">Anker Zolo Charger 30W PD 3.0 price in Kenya is KSh 5,000. Compact GaN USB-C","currency":"KES","tags":[],"images":[],"variants":{"77771":{"variantID":"77771","title":"Anker Zolo Charger 30W, PD 3.0","status":null,"price":0,"imageID":"78360","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Anker-Zolo-Charger-30W-PD-3.0-Price-in-Kenya.png"}},"productID":"77771","productUrl":"https:\/\/phonesstorekenya.com\/product\/anker-zolo-charger-30w-pd-3-0\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

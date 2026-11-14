@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Honor Magic9 Pro Max 5G","status":null,"description":"<h2>HONOR Magic9 Pro Max 5G Price in Kenya<\/h2>\r\nThe HONOR Magic9 Pro Max 5G price in Kenya is KSh 188,000, offering a premium flagship smartphone designed for professional photography, cinematic video","currency":"KES","tags":[],"images":[],"variants":{"79050":{"variantID":"79050","title":"Honor Magic9 Pro Max 5G","sku":"HONOR-MAGIC9-PRO-MAX","status":null,"price":18800000,"imageID":"79144","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Honor-Magic9-Pro-Max-5G-Price-in-Kenya.png"},"79063":{"variantID":"79063","title":"Honor Magic9 Pro Max 5G - 16GB\/512GB","sku":"HONOR-MAGIC9-PRO-MAX","status":"inStock","price":18800000,"imageID":"79144","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Honor-Magic9-Pro-Max-5G-Price-in-Kenya.png","customFields":{"attribute_pa_ram-storage":"16gb-512gb"}}},"productID":"79050","productUrl":"https:\/\/phonesstorekenya.com\/product\/honor-magic9-pro-max-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"SanDisk microSD Express Card for Nintendo Switch 2 - 256GB","status":null,"description":"<h2 dir=\"ltr\">SanDisk microSD Express Card for Nintendo Switch 2 \u2013 256GB Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The SanDisk microSD Express Card for Nintendo Switch 2 \u2013 256GB","currency":"KES","tags":[],"images":[],"variants":{"78186":{"variantID":"78186","title":"SanDisk microSD Express Card for Nintendo Switch 2 - 256GB","status":null,"price":1100000,"imageID":"78506","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/SanDisk-microSD-Express-Card-for-Nintendo-Switch-2-256GB-Price-in-Kemya.png"}},"productID":"78186","productUrl":"https:\/\/phonesstorekenya.com\/product\/sandisk-microsd-express-card-for-nintendo-switch-2-256gb\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno Pova Curve 2 5G","status":null,"description":"<div class=\"flex-1 flex flex-col px-4 max-w-3xl mx-auto w-full pt-1\">\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_1dh_\" aria-busy=\"false\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\" data-rocksteady-sizer=\"\">\r\n<div data-rs-index=\"329\" data-index=\"329\" data-last-message=\"true\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"330\" aria-posinset=\"330\" aria-label=\"Message 330 of 330\">\r\n<div data-test-render-count=\"1\">\r\n<div class=\"group","currency":"KES","tags":[],"images":[],"variants":{"73757":{"variantID":"73757","title":"Tecno Pova Curve 2 5G","status":null,"price":5550000,"oldPrice":6000000,"imageID":"73760","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/07\/Tecno-Pova-Curve-2-5G.png"}},"productID":"73757","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-pova-curve-2-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Samsung Galaxy A18 4G","status":null,"description":"<h2 dir=\"ltr\">Samsung Galaxy A18 4G Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Samsung Galaxy A18 4G price in Kenya starts at KSh 26,000. Released on 18 September 2026,","currency":"KES","tags":[],"images":[],"variants":{"73388":{"variantID":"73388","title":"Samsung Galaxy A18 4G","status":null,"price":2600000,"imageID":"73404","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/07\/Samsung-Galaxy-A18-4G.png"},"78371":{"variantID":"78371","title":"Samsung Galaxy A18 4G - 4GB\/128GB","status":"inStock","price":2600000,"oldPrice":2650000,"imageID":"73404","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/07\/Samsung-Galaxy-A18-4G.png","customFields":{"attribute_pa_internal-storage":"4gb-128gb"}}},"productID":"73388","productUrl":"https:\/\/phonesstorekenya.com\/product\/samsung-galaxy-a18\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

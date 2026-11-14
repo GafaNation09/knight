@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Anker Zolo Charger (20W,PD 3.0)","status":null,"description":"<h2>Anker Zolo Charger (20W, PD 3.0) Price in Kenya<\/h2>\r\nThe <strong>Anker Zolo Charger (20W, PD 3.0) price in Kenya<\/strong> is <strong>KSh 2,800<\/strong>, giving iPhone, Samsung, Pixel, and iPad owners a compact","currency":"KES","tags":[],"images":[],"variants":{"77543":{"variantID":"77543","title":"Anker Zolo Charger (20W,PD 3.0)","status":null,"price":280000,"imageID":"78341","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Anker-Zolo-Charger-20WPD-3.0-Price-in-Kenya.png"}},"productID":"77543","productUrl":"https:\/\/phonesstorekenya.com\/product\/anker-zolo-charger-20wpd-3-0\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

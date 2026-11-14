@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno T528","status":null,"description":"<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_83_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"100\" aria-posinset=\"100\" aria-label=\"Message 100 of 100\">\r\n<h2 dir=\"ltr\">Tecno T528 Dual SIM Feature Phone Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Tecno T528","currency":"KES","tags":[],"images":[],"variants":{"57466":{"variantID":"57466","title":"Tecno T528","status":null,"price":375000,"imageID":"57522","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/07\/Itel-T528.jpg"}},"productID":"57466","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-t528\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Apple 40W Dynamic Power Adapter with 60W Max","status":null,"description":"<h2>Apple 40W Dynamic Power Adapter with 60W Max Price in Kenya<\/h2>\r\nThe Apple 40W Dynamic Power Adapter with 60W Max price in Kenya is KSh 8,500, offering fast and efficient charging","currency":"KES","tags":[],"images":[],"variants":{"63123":{"variantID":"63123","title":"Apple 40W Dynamic Power Adapter with 60W Max","status":null,"price":850000,"imageID":"63124","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/01\/Apple-40W-Dynamic-Power-Adapter-with-60W-Max.png"}},"productID":"63123","productUrl":"https:\/\/phonesstorekenya.com\/product\/apple-40w-dynamic-power-adapter-with-60w-max\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

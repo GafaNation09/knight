@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Oraimo PowerNova QF1 27000mAh 22.5W Fast Charging Power Bank","status":null,"description":"<h2 dir=\"ltr\">Oraimo PowerNova QF1 27000mAh 22.5W Fast Charging Power Bank Price in Kenya<\/h2>\r\n<p dir=\"ltr\">The Oraimo PowerNova QF1 27000mAh 22.5W Power Bank price in Kenya is KSh 3,600, delivering serious backup","currency":"KES","tags":[],"images":[],"variants":{"76277":{"variantID":"76277","title":"Oraimo PowerNova QF1 27000mAh 22.5W Fast Charging Power Bank","status":null,"price":360000,"imageID":"76283","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/09\/Oraimo-PowerNova-QF1-27000mAh-22.5W-Fast-Charging-Power-Bank.png"}},"productID":"76277","productUrl":"https:\/\/phonesstorekenya.com\/product\/oraimo-powernova-qf1-27000mah\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

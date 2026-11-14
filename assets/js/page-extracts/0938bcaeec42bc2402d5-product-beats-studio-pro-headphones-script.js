@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Beats Studio Pro Headphones","status":null,"description":"<h2>Beats Studio Pro Headphones Price in Kenya<\/h2>\r\nThe Beats Studio Pro Headphones price in Kenya is KSh 26,000, bringing Beats' flagship over-ear headphones with active noise cancelling, Personalized Spatial Audio, and","currency":"KES","tags":[],"images":[],"variants":{"79744":{"variantID":"79744","title":"Beats Studio Pro Headphones","status":null,"price":2600000,"imageID":"79751","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/11\/Beats-Studio-Pro-Headphones-Price-in-Kenya.png"}},"productID":"79744","productUrl":"https:\/\/phonesstorekenya.com\/product\/beats-studio-pro-headphones\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Nothing CMF Watch Pro 2","status":null,"description":"<h2>Nothing CMF Watch Pro 2<\/h2>\r\n<span style=\"font-weight: 400;\">The Nothing CMF Watch Pro 2 Price in Kenya is Ksh 8,000. The Nothing CMF Watch Pro 2 combines style, versatility, and functionality, making","currency":"KES","tags":[],"images":[],"variants":{"51748":{"variantID":"51748","title":"Nothing CMF Watch Pro 2","status":null,"price":800000,"oldPrice":1100000,"imageID":"51781","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2024\/07\/Nothing-CMF-Watch-Pro-2-11.jpg"}},"productID":"51748","productUrl":"https:\/\/phonesstorekenya.com\/product\/nothing-cmf-watch-pro-2\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,78 @@
+
+
+    /* ── Hide native WC variation UI ── */
+    .pp-variable-product .variations_form table,
+    .pp-variable-product .variations_form table.variations,
+    .pp-variable-product .variations_form .variations,
+    .pp-variable-product .variations_form .variations tr,
+    .pp-variable-product .variations_form .variations td,
+    .pp-variable-product .variations_form .variations th,
+    .pp-variable-product .variations_form .variations label,
+    .pp-variable-product .variations_form select,
+    .pp-variable-product .variations_form select[name*="attribute_"],
+    .pp-variable-product .variations_form label[for*="attribute_"],
+    .pp-variable-product .woocommerce-variation-price,
+    .pp-variable-product .woocommerce-variation-description,
+    .pp-variable-product .woocommerce-variation-availability,
+    .pp-variable-product .reset_variations,
+    .pp-variable-product .reset_variations a,
+    .pp-variable-product .shop_attributes,
+    .pp-variable-product .product_meta,
+    body.pp-variable-product .variations_form table,
+    body.pp-variable-product select[name*="attribute_"] {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0 !important;
+        min-height: 0 !important;
+        max-height: 0 !important;
+        overflow: hidden !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: 0 !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+        position: absolute !important;
+        left: -9999px !important;
+        top: -9999px !important;
+    }
+
+    /* ── Native price: hidden visually, readable by Google ── */
+    body.pp-variable-product .price {
+        visibility: hidden !important;
+        opacity: 0 !important;
+        position: absolute !important;
+        left: -9999px !important;
+        top: -9999px !important;
+        height: 0 !important;
+        overflow: hidden !important;
+        pointer-events: none !important;
+    }
+    body.pp-variable-product.pp-has-selection .price {
+        display: none !important;
+    }
+
+    /* ── Wrap: hidden without display:none to avoid Woodmart specificity wars.
+       JS sets inline style directly which always beats any stylesheet. ── */
+    body.pp-variable-product #pp-actions-wrap {
+        visibility: hidden;
+        height: 0;
+        overflow: hidden;
+        position: absolute;
+        left: -9999px;
+        top: -9999px;
+    }
+
+    /* ── Counter the Additional CSS rule that hides .psk-variation-ui globally ──
+       Our picker lives in #pp-picker-root and must never be hidden by that rule. ── */
+    #pp-picker-root,
+    #pp-picker-root * {
+        display: revert;
+    }
+    #pp-picker-root .pp-price-teaser   { display: flex !important; }
+    #pp-picker-root .pp-trigger-btn    { display: flex !important; }
+    #pp-picker-root .pp-dropdown-menu  { display: block !important; }
+    #pp-picker-root .pp-dropdown-item  { display: flex !important; }
+    #pp-picker-root .pp-info-box       { display: none; }
+    #pp-picker-root .pp-info-box.pp-visible { display: block !important; }
+
+    

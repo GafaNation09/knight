@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Divo Dual Controller Charging Dock","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"160\" aria-posinset=\"160\" aria-label=\"Message 160 of 160\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">Divo Dual Controller Charging Dock Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Divo Dual","currency":"KES","tags":[],"images":[],"variants":{"78194":{"variantID":"78194","title":"Divo Dual Controller Charging Dock","status":null,"price":450000,"imageID":"78430","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Divo-Dual-Controller-Charging-Dock-Price-in-Kenya-2.png"}},"productID":"78194","productUrl":"https:\/\/phonesstorekenya.com\/product\/divo-dual-controller-charging-dock\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

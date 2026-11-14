@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Anker Prime Power Bank (20K 220W)","status":null,"description":"<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_64u_\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"180\" aria-posinset=\"180\" aria-label=\"Message 180 of 180\">\r\n<div class=\"mx-auto flex w-full max-w-3xl flex-1 flex-col px-5 md:px- max-md: max-md: max-md: pt-1\" data-testid=\"transcript-list\">\r\n<div role=\"feed\" data-perf-region=\"transcript\" aria-label=\"Chat messages\"","currency":"KES","tags":[],"images":[],"variants":{"75664":{"variantID":"75664","title":"Anker Prime Power Bank (20K 220W)","status":null,"price":1480000,"imageID":"75666","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/09\/Anker-Prime-Power-Bank-20000mAh-220W.png"}},"productID":"75664","productUrl":"https:\/\/phonesstorekenya.com\/product\/anker-prime-power-bank-2000mah-220w\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

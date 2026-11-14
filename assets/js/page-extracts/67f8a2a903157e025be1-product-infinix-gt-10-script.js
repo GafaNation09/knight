@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Infinix GT 10","status":null,"description":"<h2>Infinix GT 10 Price In Kenya &amp; Key Features<\/h2>\r\n<table id=\"spec\" class=\"table table-bordered table-striped\">\r\n<tbody>\r\n<tr>\r\n<td colspan=\"2\"><b>Network<\/b><\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Technology<\/td>\r\n<td>GSM \/ HSPA \/ LTE<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>2G bands<\/td>\r\n<td>GSM 850 \/ 900 \/ 1800 \/ 1900 - SIM 1 &amp;","currency":"KES","tags":[],"images":[],"variants":{"46998":{"variantID":"46998","title":"Infinix GT 10","status":null,"price":0,"imageID":"43515","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2022\/08\/Infinix-Note-12-Pro-d.jpg"}},"productID":"46998","productUrl":"https:\/\/phonesstorekenya.com\/product\/infinix-gt-10\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

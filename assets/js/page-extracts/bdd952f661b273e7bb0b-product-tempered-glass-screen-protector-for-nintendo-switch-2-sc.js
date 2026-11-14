@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tempered Glass Screen Protector for Nintendo Switch 2","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"38\" aria-posinset=\"38\" aria-label=\"Message 38 of 38\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">Tempered Glass Screen Protector for Nintendo Switch 2 Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p","currency":"KES","tags":[],"images":[],"variants":{"78189":{"variantID":"78189","title":"Tempered Glass Screen Protector for Nintendo Switch 2","status":null,"price":250000,"imageID":"78492","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Tempered-Glass-Screen-Protector-for-Nintendo-Switch-2.png"}},"productID":"78189","productUrl":"https:\/\/phonesstorekenya.com\/product\/tempered-glass-screen-protector-for-nintendo-switch-2\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

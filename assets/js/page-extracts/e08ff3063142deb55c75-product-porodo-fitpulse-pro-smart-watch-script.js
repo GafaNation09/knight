@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Porodo FitPulse Pro Smart Watch","status":null,"description":"<h2>Porodo FitPulse Pro Smart Watch Price in Kenya<\/h2>\r\nThe <strong>Porodo FitPulse Pro Smart Watch price in Kenya<\/strong> is <strong>KSh 6,800<\/strong>, bringing a vivid 1.43-inch AMOLED display, Bluetooth calling, and up to","currency":"KES","tags":[],"images":[],"variants":{"77731":{"variantID":"77731","title":"Porodo FitPulse Pro Smart Watch","status":null,"price":680000,"imageID":"78280","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Porodo-FitPulse-Pro-Smart-Watch-Price-in-Kenya.png"}},"productID":"77731","productUrl":"https:\/\/phonesstorekenya.com\/product\/porodo-fitpulse-pro-smart-watch\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

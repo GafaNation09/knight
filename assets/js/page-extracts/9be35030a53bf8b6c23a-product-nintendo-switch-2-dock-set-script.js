@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Nintendo Switch 2 Dock Set","status":null,"description":"<h2 dir=\"ltr\" aria-level=\"4\">Nintendo Switch 2 Dock Set Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Nintendo Switch 2 Dock Set price in Kenya is KSh 20,500. It is Nintendo\u2019s","currency":"KES","tags":[],"images":[],"variants":{"78187":{"variantID":"78187","title":"Nintendo Switch 2 Dock Set","status":null,"price":2050000,"imageID":"78594","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Nintendo-Switch-2-Dock-Set-Price-in-Kenya.png"}},"productID":"78187","productUrl":"https:\/\/phonesstorekenya.com\/product\/nintendo-switch-2-dock-set\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

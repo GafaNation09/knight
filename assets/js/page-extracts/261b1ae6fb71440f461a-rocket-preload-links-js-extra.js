@@ -1,0 +1,3 @@
+
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/product/|/checkout/??(.*)|/cart/?|/my-account-3/??(.*)|/(index.php/)?(.*)wp-json(/.*|$)|/.well-known/ucp|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://phonesstorekenya.com","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra

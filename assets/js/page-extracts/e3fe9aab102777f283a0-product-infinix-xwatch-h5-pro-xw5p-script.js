@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Infinix XWatch H5 Pro (XW5P)","status":null,"description":"<div class=\"mx-auto flex w-full max-w-3xl flex-1 flex-col px-5 md:px- max-md: max-md: max-md: pt-1\" data-testid=\"transcript-list\">\r\n<div role=\"feed\" data-perf-region=\"transcript\" aria-label=\"Chat messages\" aria-describedby=\"_r_hd_\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\" data-rocksteady-sizer=\"\" data-testid=\"transcript-sizer\">\r\n<div data-rs-index=\"179\" data-index=\"179\" data-testid=\"transcript-row\" data-last-message=\"true\" data-perf-row=\"assistant\" data-perf-row-from-tail=\"0\" data-perf-row-streaming=\"false\">\r\n<div","currency":"KES","tags":[],"images":[],"variants":{"76194":{"variantID":"76194","title":"Infinix XWatch H5 Pro (XW5P)","status":null,"price":400000,"imageID":"76222","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/09\/Infinix-XWatch-H5-Pro-XW5P-2.png"}},"productID":"76194","productUrl":"https:\/\/phonesstorekenya.com\/product\/infinix-xwatch-h5-pro-xw5p\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

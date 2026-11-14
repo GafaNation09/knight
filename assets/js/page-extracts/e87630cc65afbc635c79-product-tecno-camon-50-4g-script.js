@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno Camon 50 4G","status":null,"description":"<h2 data-start=\"8082\" data-end=\"8155\">Tecno Camon 50 4G Price in Kenya (2026) \u2013 Specs &amp; Overview<\/h2>\r\n<p data-start=\"306\" data-end=\"548\">The Tecno Camon 50 4G price in Kenya is KSh 34,000 for pre-orders. This mid-range","currency":"KES","tags":[],"images":[],"variants":{"60553":{"variantID":"60553","title":"Tecno Camon 50 4G","status":null,"price":3400000,"oldPrice":3650000,"imageID":"65052","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/11\/Tecno-Camon-50-5G.png"}},"productID":"60553","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-camon-50-4g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

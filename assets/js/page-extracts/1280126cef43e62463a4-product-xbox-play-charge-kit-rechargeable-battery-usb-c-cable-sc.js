@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Xbox Play & Charge Kit (Rechargeable Battery + USB-C Cable)","status":null,"description":"<h2 dir=\"ltr\" aria-level=\"4\">Xbox Play &amp; Charge Kit (Rechargeable Battery + USB-C Cable) Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Xbox Play &amp; Charge Kit costs KSh 5,500 in","currency":"KES","tags":[],"images":[],"variants":{"78192":{"variantID":"78192","title":"Xbox Play & Charge Kit (Rechargeable Battery + USB-C Cable)","status":null,"price":550000,"imageID":"78467","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Xbox-Play-Charge-Kit-Rechargeable-Battery-USB-C-Cable-Price-in-Kenya.png"}},"productID":"78192","productUrl":"https:\/\/phonesstorekenya.com\/product\/xbox-play-charge-kit-rechargeable-battery-usb-c-cable\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

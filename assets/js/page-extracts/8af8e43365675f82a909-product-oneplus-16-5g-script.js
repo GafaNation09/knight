@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"OnePlus 16 5G","status":null,"description":"<h2>OnePlus 16 Price in Kenya<\/h2>\r\nThe OnePlus 16 price in Kenya starts from KSh 168,000, bringing the Snapdragon 8 Elite Extreme Gen 6 chipset, a 200MP main camera, and a huge","currency":"KES","tags":[],"images":[],"variants":{"79049":{"variantID":"79049","title":"OnePlus 16 5G","sku":"ONEPLUS-16","status":null,"price":16800000,"imageID":"79130","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/OnePlus-16-5G-Price-in-Kenya-2.png"},"79059":{"variantID":"79059","title":"OnePlus 16 5G - 16GB\/512GB","sku":"ONEPLUS-16","status":"inStock","price":16800000,"oldPrice":18800000,"imageID":"79130","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/OnePlus-16-5G-Price-in-Kenya-2.png","customFields":{"attribute_pa_ram-storage":"16gb-512gb"}}},"productID":"79049","productUrl":"https:\/\/phonesstorekenya.com\/product\/oneplus-16-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

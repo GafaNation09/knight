@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Realme P4 Power 5G","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_do_\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"38\" aria-posinset=\"38\" aria-label=\"Message 38 of 38\">\r\n<h2 dir=\"ltr\" aria-level=\"4\">Realme P4 Power Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Realme P4 Power price","currency":"KES","tags":[],"images":[],"variants":{"78972":{"variantID":"78972","title":"Realme P4 Power 5G","status":null,"price":5450000,"imageID":"78974","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Realme-P4-Power-5G-Price-in-Kenya.png"}},"productID":"78972","productUrl":"https:\/\/phonesstorekenya.com\/product\/realme-p4-power-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

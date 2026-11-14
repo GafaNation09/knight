@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"DualSense Wireless Controller - LeBron James Limited Edition","status":null,"description":"<div>\r\n<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_c9_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"132\" aria-posinset=\"132\" aria-label=\"Message 132 of 132\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">DualSense Wireless Controller - LeBron James Limited Edition Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The","currency":"KES","tags":[],"images":[],"variants":{"78181":{"variantID":"78181","title":"DualSense Wireless Controller - LeBron James Limited Edition","status":null,"price":1500000,"imageID":"78665","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/DualSense-Wireless-Controller-LeBron-James-Limited-Edition-Price-in-Kenya.png"}},"productID":"78181","productUrl":"https:\/\/phonesstorekenya.com\/product\/dualsense-wireless-controller-lebron-james-limited-edition\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,3 @@
+
+	dataLayer.push({"event":"view_item","ecommerce":{"currency":"KES","value":4500,"items":[{"item_id":"78194","item_name":"Divo Dual Controller Charging Dock","sku":"78194","price":4500,"stocklevel":null,"stockstatus":"instock","google_business_vertical":"retail","item_category":"Gaming","item_category2":"Gaming Accessories","id":"78194","quantity":1}]}});
+//# sourceURL=gtm4wp-additional-datalayer-pushes-js-after

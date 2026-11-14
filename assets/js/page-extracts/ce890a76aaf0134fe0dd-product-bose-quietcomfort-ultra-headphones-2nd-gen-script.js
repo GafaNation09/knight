@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Bose QuietComfort Ultra Headphones (2nd Gen)","status":null,"description":"<h2>Bose QuietComfort Ultra Headphones (2nd Gen) Price in Kenya<\/h2>\r\nThe Bose QuietComfort Ultra Headphones (2nd Gen) price in Kenya is KSh 46,500, bringing Bose's flagship noise cancelling to frequent travellers, remote","currency":"KES","tags":[],"images":[],"variants":{"79633":{"variantID":"79633","title":"Bose QuietComfort Ultra Headphones (2nd Gen)","status":null,"price":4650000,"imageID":"79640","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/11\/Bose-QuietComfort-Ultra-Headphones-2nd-Gen.png"}},"productID":"79633","productUrl":"https:\/\/phonesstorekenya.com\/product\/bose-quietcomfort-ultra-headphones-2nd-gen\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

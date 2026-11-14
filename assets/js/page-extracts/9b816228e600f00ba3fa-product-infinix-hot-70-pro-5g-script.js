@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Infinix Hot 70 Pro 5G","status":null,"description":"<div data-test-render-count=\"1\">\r\n<div class=\"group\">\r\n<div class=\"contents\">\r\n<div class=\"group relative relative pb-3\" data-is-streaming=\"false\">\r\n<div class=\"font-claude-response relative leading- :bg-bg-000\/50 :border-0.5 :border-border-400 :bg-transparent :pl-2 :pr-8 :pl-2 :pr-8\">\r\n<div class=\"standard-markdown grid-cols-1 grid :min-w-0 gap-3 standard-markdown\">\r\n<h2 class=\"text-text-100 mt-3 -mb-1 text-","currency":"KES","tags":[],"images":[],"variants":{"71635":{"variantID":"71635","title":"Infinix Hot 70 Pro 5G","status":null,"price":3600000,"oldPrice":3650000,"imageID":"71636","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/06\/Infinix-Hot-70-Pro.png"}},"productID":"71635","productUrl":"https:\/\/phonesstorekenya.com\/product\/infinix-hot-70-pro-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

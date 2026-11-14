@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Google Pixel Flex Dual Port 67W USB-C Fast Charger","status":null,"description":"<h2>Google Pixel Flex Dual Port 67W USB-C Fast Charger Price in Kenya<\/h2>\r\nThe Google Pixel Flex Dual Port 67W USB-C Fast Charger price in Kenya is KSh 5,000, giving Pixel owners","currency":"KES","tags":[],"images":[],"variants":{"79248":{"variantID":"79248","title":"Google Pixel Flex Dual Port 67W USB-C Fast Charger","status":null,"price":500000,"imageID":"79252","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/11\/Google-Pixel-Flex-Dual-Port-67W-USB-C-Fast-Charger-Price-in-Kenya.png"}},"productID":"79248","productUrl":"https:\/\/phonesstorekenya.com\/product\/google-pixel-flex-dual-port-67w-usb-c-fast-charger\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

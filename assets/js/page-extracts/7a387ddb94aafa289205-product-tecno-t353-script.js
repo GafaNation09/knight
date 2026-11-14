@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno T353","status":null,"description":"<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_83_\">\r\n<div>\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"106\" aria-posinset=\"106\" aria-label=\"Message 106 of 106\">\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">Tecno T353 Dual Sim Price in Kenya<\/h2>\r\n<p dir=\"ltr\">The Tecno T353 Dual Sim price in Kenya is KSh","currency":"KES","tags":[],"images":[],"variants":{"57469":{"variantID":"57469","title":"Tecno T353","status":null,"price":360000,"imageID":"57525","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/07\/Tecno-T353.jpg"}},"productID":"57469","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-t353\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Samsung Galaxy F06 5G","status":null,"description":"<h2 data-section-id=\"1vmzqlb\" data-start=\"0\" data-end=\"39\">Samsung Galaxy F06 5G Price in Kenya<\/h2>\r\n<p data-start=\"41\" data-end=\"441\">The Samsung Galaxy F06 5G price in Kenya is KES 20,000. It is a budget-friendly 5G smartphone designed to","currency":"KES","tags":[],"images":[],"variants":{"69364":{"variantID":"69364","title":"Samsung Galaxy F06 5G","status":null,"price":2000000,"imageID":"69365","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/05\/Samsung-Galaxy-F06-5G.png"},"69366":{"variantID":"69366","title":"Samsung Galaxy F06 5G - 4GB\/128GB","status":"inStock","price":2000000,"imageID":"69365","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/05\/Samsung-Galaxy-F06-5G.png","customFields":{"attribute_pa_internal-storage":"4gb-128gb"}}},"productID":"69364","productUrl":"https:\/\/phonesstorekenya.com\/product\/samsung-galaxy-f06-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

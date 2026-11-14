@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Xiaomi 18 Fold 5G","status":null,"description":"<h2>Xiaomi 18 Fold Price in Kenya<\/h2>\r\nThe Xiaomi 18 Fold price in Kenya starts from KSh 252,000, bringing a 7.58-inch foldable AMOLED display, Xiaomi's in-house XRing O3 chipset, and a 200MP","currency":"KES","tags":[],"images":[],"variants":{"79053":{"variantID":"79053","title":"Xiaomi 18 Fold 5G","sku":"XIAOMI-18-FOLD","status":null,"price":25200000,"imageID":"79152","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Xiaomi-18-Fold-5G-Price-in-Kenya.png"},"79069":{"variantID":"79069","title":"Xiaomi 18 Fold 5G - 12GB\/512GB","sku":"XIAOMI-18-FOLD","status":"outOfStock","price":25200000,"imageID":"79152","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Xiaomi-18-Fold-5G-Price-in-Kenya.png","customFields":{"attribute_pa_ram-storage":"12gb-512gb"}}},"productID":"79053","productUrl":"https:\/\/phonesstorekenya.com\/product\/xiaomi-18-fold-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Porodo Kids 4G Smartwatch","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_1ek_\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"482\" aria-posinset=\"482\" aria-label=\"Message 482 of 482\">\r\n<h2 dir=\"ltr\">Porodo Kids 4G Smart Watch Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Porodo Kids 4G","currency":"KES","tags":[],"images":[],"variants":{"75093":{"variantID":"75093","title":"Porodo Kids 4G Smartwatch","status":null,"price":650000,"imageID":"75108","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/08\/Porodo-Kids-4G-Smartwatch.png"}},"productID":"75093","productUrl":"https:\/\/phonesstorekenya.com\/product\/porodo-kids-4g-smartwatch\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

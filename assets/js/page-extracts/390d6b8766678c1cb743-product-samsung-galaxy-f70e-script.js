@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Samsung Galaxy F70e","status":null,"description":"<div class=\"flex-1 flex flex-col px-4 max-w-3xl mx-auto w-full pt-1\">\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_17v_\" aria-busy=\"false\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\" data-rocksteady-sizer=\"\">\r\n<div data-rs-index=\"255\" data-index=\"255\" data-last-message=\"true\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"256\" aria-posinset=\"256\" aria-label=\"Message 256 of 256\">\r\n<div data-test-render-count=\"1\">\r\n<div class=\"group\">\r\n<div","currency":"KES","tags":[],"images":[],"variants":{"71853":{"variantID":"71853","title":"Samsung Galaxy F70e","status":null,"price":1850000,"imageID":"71854","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/06\/Samsung-Galaxy-F70e.png"}},"productID":"71853","productUrl":"https:\/\/phonesstorekenya.com\/product\/samsung-galaxy-f70e\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

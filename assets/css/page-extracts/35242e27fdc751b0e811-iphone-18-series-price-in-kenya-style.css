@@ -1,0 +1,11 @@
+
+  .p18a-wrap{ max-width:100%; margin:0 auto; padding:40px 24px 16px; color:#1D2327; }
+  .p18a-wrap h2{ font-weight:600; font-size:clamp(24px,3.2vw,32px); line-height:1.2; margin:0 0 20px; color:#1D2327; }
+  .p18a-wrap p{ font-size:16px; line-height:1.65; color:#5B6470; margin:0 0 18px; }
+  .p18a-wrap p b, .p18a-wrap p strong{ color:#1D2327; font-weight:600; }
+  .p18a-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; margin:0 0 22px; }
+  .p18a-card{ background:#F6F8FA; border:1px solid #E4E7EB; border-top:3px solid #ED0D0F; border-radius:8px; padding:16px 18px; }
+  .p18a-card h3{ font-size:15px; font-weight:600; margin:0 0 8px; color:#1D2327; }
+  .p18a-card p{ font-size:14.5px; line-height:1.55; margin:0; color:#5B6470; }
+  .p18a-promo{ background:#FFF8E6; border:1px solid #F5E1A4; border-radius:8px; padding:14px 18px; font-size:15px; line-height:1.6; color:#5B6470; margin:0 0 8px; }
+  .p18a-promo b{ color:#1D2327; }

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Anker Zolo Powerbank 20000mAh 22.5W","status":null,"description":"<h2 data-start=\"0\" data-end=\"270\">Anker Zolo Powerbank 20,000mAh price in Kenya<\/h2>\r\n<p data-start=\"0\" data-end=\"270\">The Anker Zolo Powerbank 20,000mAh price in Kenya is KES 6,000. This high-capacity portable charger is designed for users who","currency":"KES","tags":[],"images":[],"variants":{"64416":{"variantID":"64416","title":"Anker Zolo Powerbank 20000mAh 22.5W","status":null,"price":600000,"imageID":"65027","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/02\/Anker-Zolo-Powerbank-20000mAh-225W.png"}},"productID":"64416","productUrl":"https:\/\/phonesstorekenya.com\/product\/anker-zolo-powerbank\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

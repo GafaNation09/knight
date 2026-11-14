@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"LoDrid Game Console Carrying Case for Xbox Series X","status":null,"description":"<h2 dir=\"ltr\" aria-level=\"4\">LoDrid Game Console Carrying Case for Xbox Series X Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The LoDrid Game Console Carrying Case for Xbox Series X price","currency":"KES","tags":[],"images":[],"variants":{"78200":{"variantID":"78200","title":"LoDrid Game Console Carrying Case for Xbox Series X","status":null,"price":950000,"imageID":"78403","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/LoDrid-Game-Console-Carrying-Case-for-Xbox-Series-X-Price-in-Kenya.png"}},"productID":"78200","productUrl":"https:\/\/phonesstorekenya.com\/product\/lodrid-game-console-carrying-case-for-xbox-series-x\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Anker Nano Charger (45W) with USB-C to USB-C Cable","status":null,"description":"<h2>Anker Nano Charger (45W) with USB-C to USB-C Cable Price in Kenya<\/h2>\r\nThe Anker Nano Charger (45W) with USB-C to USB-C Cable price in Kenya is KSh 4,000, giving Samsung, iPhone,","currency":"KES","tags":[],"images":[],"variants":{"79628":{"variantID":"79628","title":"Anker Nano Charger (45W) with USB-C to USB-C Cable","status":null,"price":400000,"imageID":"79630","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/11\/Anker-Nano-Charger-45W-with-USB-C-to-USB-C-Cable.png"}},"productID":"79628","productUrl":"https:\/\/phonesstorekenya.com\/product\/anker-nano-charger-45w-with-usb-c-to-usb-c-cable\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

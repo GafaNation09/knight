@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"DualSense Wireless Controller - The Last of Us Limited Edition","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_c9_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"136\" aria-posinset=\"136\" aria-label=\"Message 136 of 136\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">DualSense Wireless Controller - The Last of Us Limited Edition Price in Kenya, Full Specifications and Review","currency":"KES","tags":[],"images":[],"variants":{"78183":{"variantID":"78183","title":"DualSense Wireless Controller - The Last of Us Limited Edition","status":null,"price":1500000,"imageID":"78556","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/DualSense-Wireless-Controller-The-Last-of-Us-Limited-Edition-Price-in-Kenya.png"}},"productID":"78183","productUrl":"https:\/\/phonesstorekenya.com\/product\/dualsense-wireless-controller-the-last-of-us-limited-edition\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

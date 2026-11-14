@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Logitech G923 TRUEFORCE Racing Wheel and Pedals","status":null,"description":"<h2 dir=\"ltr\" aria-level=\"4\">Logitech G923 TRUEFORCE Racing Wheel and Pedals Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Logitech G923 TRUEFORCE Racing Wheel and Pedals price in Kenya is KSh","currency":"KES","tags":[],"images":[],"variants":{"78190":{"variantID":"78190","title":"Logitech G923 TRUEFORCE Racing Wheel and Pedals","status":null,"price":4500000,"imageID":"78484","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Logitech-G923-TRUEFORCE-Racing-Wheel-and-Pedals-Price-in-Kenya.png"}},"productID":"78190","productUrl":"https:\/\/phonesstorekenya.com\/product\/logitech-g923-trueforce-racing-wheel-and-pedals\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"DualSense Wireless Controller - ASTRO BOT Limited Edition","status":null,"description":"<h2 dir=\"ltr\">DualSense Wireless Controller - ASTRO BOT Limited Edition Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The DualSense Wireless Controller - ASTRO BOT\u00a0 Limited Edition price in Kenya is","currency":"KES","tags":[],"images":[],"variants":{"78178":{"variantID":"78178","title":"DualSense Wireless Controller - ASTRO BOT Limited Edition","status":null,"price":1400000,"imageID":"78636","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/DualSense-Wireless-Controller-ASTRO-BOT-Limited-Edition-Price-in-Kenya.png"}},"productID":"78178","productUrl":"https:\/\/phonesstorekenya.com\/product\/dualsense-wireless-controller-astro-bot-limited-edition\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

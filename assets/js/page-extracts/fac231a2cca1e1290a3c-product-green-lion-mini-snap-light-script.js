@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Green Lion Mini Snap Light","status":null,"description":"<h2 data-start=\"0\" data-end=\"50\">Green Lion Mini Snap Light Price in Kenya<\/h2>\r\n<p data-start=\"52\" data-end=\"646\">The Green Lion Mini Snap Light price in Kenya is Ksh 3,000, and it is available now at <a","currency":"KES","tags":[],"images":[],"variants":{"60797":{"variantID":"60797","title":"Green Lion Mini Snap Light","status":null,"price":300000,"oldPrice":380000,"imageID":"60798","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/12\/Green-Lion-Mini-Snap-Light.webp"}},"productID":"60797","productUrl":"https:\/\/phonesstorekenya.com\/product\/green-lion-mini-snap-light\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,2479 @@
+{
+  "captured_at": "2026-11-14",
+  "pages": [
+    {
+      "route": "/about-us",
+      "file": "about.html",
+      "source": "https://phonesstorekenya.com/about-us/",
+      "source_title": "About Us - Phones Store Kenya",
+      "source_bytes": 437168
+    },
+    {
+      "route": "/contact-us",
+      "file": "contact.html",
+      "source": "https://phonesstorekenya.com/contact-us/",
+      "source_title": "Contact Us - Phones Store Kenya",
+      "source_bytes": 293886
+    },
+    {
+      "route": "/privacy-policy",
+      "file": "privacy-policy.html",
+      "source": "https://phonesstorekenya.com/privacy-policy/",
+      "source_title": "Privacy Policy - Phones Store Kenya",
+      "source_bytes": 289651
+    },
+    {
+      "route": "/refunds-return-policy",
+      "file": "refunds-return-policy.html",
+      "source": "https://phonesstorekenya.com/refunds-and-return-policy/",
+      "source_title": "Refunds and Return Policy - Phones Store Kenya",
+      "source_bytes": 290181
+    },
+    {
+      "route": "/shipping-policy",
+      "file": "shipping-policy.html",
+      "source": "https://phonesstorekenya.com/shipping-policy/",
+      "source_title": "Shipping Policy - Phones Store Kenya",
+      "source_bytes": 287236
+    },
+    {
+      "route": "/terms-and-conditions",
+      "file": "terms-and-conditions.html",
+      "source": "https://phonesstorekenya.com/terms-and-conditions/",
+      "source_title": "Terms and Conditions - Phones Store Kenya",
+      "source_bytes": 293669
+    },
+    {
+      "route": "/black-friday",
+      "file": "black-friday.html",
+      "source": "https://phonesstorekenya.com/black-friday/",
+      "source_title": "Phones Store Kenya Black Friday 2026 - Phones Store Kenya",
+      "source_bytes": 530762
+    },
+    {
+      "route": "/brand/amazon",
+      "file": "brand-archives/amazon.html",
+      "source": "https://phonesstorekenya.com/brand/amazon/",
+      "source_title": "Amazon Products Price in Kenya | Fire Tablets, Kindle &amp; More | Phones Store Kenya",
+      "source_bytes": 522163
+    },
+    {
+      "route": "/brand/anker",
+      "file": "brand-archives/anker.html",
+      "source": "https://phonesstorekenya.com/brand/anker/",
+      "source_title": "Anker Products Price in Kenya | Power Banks, Chargers &amp; Soundcore | Phones Store Kenya",
+      "source_bytes": 602753
+    },
+    {
+      "route": "/brand/apple",
+      "file": "brand-archives/apple.html",
+      "source": "https://phonesstorekenya.com/brand/apple/",
+      "source_title": "Apple Products Price in Kenya 2026 | iPhone, iPad, MacBook, Watch | Phones Store Kenya",
+      "source_bytes": 663730
+    },
+    {
+      "route": "/brand/beats",
+      "file": "brand-archives/beats.html",
+      "source": "https://phonesstorekenya.com/brand/beats/",
+      "source_title": "Beats Products Price in Kenya | Earbuds, Headphones &amp; Pill Speaker | Phones Store Kenya",
+      "source_bytes": 413819
+    },
+    {
+      "route": "/brand/bose",
+      "file": "brand-archives/bose.html",
+      "source": "https://phonesstorekenya.com/brand/bose/",
+      "source_title": "Bose Headphones &amp; Earbuds Price in Kenya | Phones Store Kenya",
+      "source_bytes": 427891
+    },
+    {
+      "route": "/brand/dji",
+      "file": "brand-archives/dji.html",
+      "source": "https://phonesstorekenya.com/brand/dji/",
+      "source_title": "DJI Osmo Cameras &amp; Gimbals Price in Kenya | Phones Store Kenya",
+      "source_bytes": 642495
+    },
+    {
+      "route": "/brand/google",
+      "file": "brand-archives/google.html",
+      "source": "https://phonesstorekenya.com/brand/google/",
+      "source_title": "Google Pixel &amp; Products Price in Kenya | Phones Store Kenya",
+      "source_bytes": 646968
+    },
+    {
+      "route": "/brand/greenlion",
+      "file": "brand-archives/greenlion.html",
+      "source": "https://phonesstorekenya.com/brand/greenlion/",
+      "source_title": "GreenLion - Phones Store Kenya",
+      "source_bytes": 365143
+    },
+    {
+      "route": "/brand/honor",
+      "file": "brand-archives/honor.html",
+      "source": "https://phonesstorekenya.com/brand/honor/",
+      "source_title": "Honor Phones Price in Kenya 2026 | X, Play, Number &amp; 600 Series | Phones Store Kenya",
+      "source_bytes": 599503
+    },
+    {
+      "route": "/brand/huawei",
+      "file": "brand-archives/huawei.html",
+      "source": "https://phonesstorekenya.com/brand/huawei/",
+      "source_title": "Huawei Watches, Bands &amp; Phones Price in Kenya | Phones Store Kenya",
+      "source_bytes": 624699
+    },
+    {
+      "route": "/brand/infinix",
+      "file": "brand-archives/infinix.html",
+      "source": "https://phonesstorekenya.com/brand/infinix/",
+      "source_title": "Infinix - Phones Store Kenya",
+      "source_bytes": 641109
+    },
+    {
+      "route": "/brand/itel",
+      "file": "brand-archives/itel.html",
+      "source": "https://phonesstorekenya.com/brand/itel/",
+      "source_title": "Itel Phones Price in Kenya | A, P, S &amp; City Series | Phones Store Kenya",
+      "source_bytes": 601300
+    },
+    {
+      "route": "/brand/jaffzora",
+      "file": "brand-archives/jaffzora.html",
+      "source": "https://phonesstorekenya.com/brand/jaffzora/",
+      "source_title": "Jaffzora - Phones Store Kenya",
+      "source_bytes": 361908
+    },
+    {
+      "route": "/brand/jbl",
+      "file": "brand-archives/jbl.html",
+      "source": "https://phonesstorekenya.com/brand/jbl/",
+      "source_title": "JBL Speakers, Headphones &amp; Soundbars Price in Kenya | Phones Store Kenya",
+      "source_bytes": 670389
+    },
+    {
+      "route": "/brand/jbq",
+      "file": "brand-archives/jbq.html",
+      "source": "https://phonesstorekenya.com/brand/jbq/",
+      "source_title": "JBQ Power Banks &amp; Car Inverters Price in Kenya | Phones Store Kenya",
+      "source_bytes": 405261
+    },
+    {
+      "route": "/brand/logitech",
+      "file": "brand-archives/logitech.html",
+      "source": "https://phonesstorekenya.com/brand/logitech/",
+      "source_title": "Logitech Racing Wheels &amp; Pedals Price in Kenya | Phones Store Kenya",
+      "source_bytes": 415348
+    },
+    {
+      "route": "/brand/motorola",
+      "file": "brand-archives/motorola.html",
+      "source": "https://phonesstorekenya.com/brand/motorola/",
+      "source_title": "Motorola Phones Price in Kenya | Moto G, Edge &amp; Razr | Phones Store Kenya",
+      "source_bytes": 607553
+    },
+    {
+      "route": "/brand/nintendo",
+      "file": "brand-archives/nintendo.html",
+      "source": "https://phonesstorekenya.com/brand/nintendo/",
+      "source_title": "Nintendo Switch 2 &amp; Switch Price in Kenya | Phones Store Kenya",
+      "source_bytes": 767622
+    },
+    {
+      "route": "/brand/nothing",
+      "file": "brand-archives/nothing.html",
+      "source": "https://phonesstorekenya.com/brand/nothing/",
+      "source_title": "Nothing Phone &amp; CMF Products Price in Kenya | Phones Store Kenya",
+      "source_bytes": 620545
+    },
+    {
+      "route": "/brand/oneplus",
+      "file": "brand-archives/oneplus.html",
+      "source": "https://phonesstorekenya.com/brand/oneplus/",
+      "source_title": "Oneplus - Phones Store Kenya",
+      "source_bytes": 608789
+    },
+    {
+      "route": "/brand/oppo",
+      "file": "brand-archives/oppo.html",
+      "source": "https://phonesstorekenya.com/brand/oppo/",
+      "source_title": "Oppo - Phones Store Kenya",
+      "source_bytes": 598313
+    },
+    {
+      "route": "/brand/oraimo",
+      "file": "brand-archives/oraimo.html",
+      "source": "https://phonesstorekenya.com/brand/oraimo/",
+      "source_title": "Oraimo - Phones Store Kenya",
+      "source_bytes": 572437
+    },
+    {
+      "route": "/brand/playstation",
+      "file": "brand-archives/playstation.html",
+      "source": "https://phonesstorekenya.com/brand/playstation/",
+      "source_title": "PlayStation - Phones Store Kenya",
+      "source_bytes": 762948
+    },
+    {
+      "route": "/brand/porodo",
+      "file": "brand-archives/porodo.html",
+      "source": "https://phonesstorekenya.com/brand/porodo/",
+      "source_title": "Porodo - Phones Store Kenya",
+      "source_bytes": 660776
+    },
+    {
+      "route": "/brand/realme",
+      "file": "brand-archives/realme.html",
+      "source": "https://phonesstorekenya.com/brand/realme/",
+      "source_title": "Realme - Phones Store Kenya",
+      "source_bytes": 534726
+    },
+    {
+      "route": "/brand/samsung",
+      "file": "brand-archives/samsung.html",
+      "source": "https://phonesstorekenya.com/brand/samsung/",
+      "source_title": "Samsung Products Price in Kenya | Phones Store Kenya",
+      "source_bytes": 587959
+    },
+    {
+      "route": "/brand/sandisk",
+      "file": "brand-archives/sandisk.html",
+      "source": "https://phonesstorekenya.com/brand/sandisk/",
+      "source_title": "SanDisk - Phones Store Kenya",
+      "source_bytes": 486263
+    },
+    {
+      "route": "/brand/tecno",
+      "file": "brand-archives/tecno.html",
+      "source": "https://phonesstorekenya.com/brand/tecno/",
+      "source_title": "Tecno - Phones Store Kenya",
+      "source_bytes": 619029
+    },
+    {
+      "route": "/brand/vivo",
+      "file": "brand-archives/vivo.html",
+      "source": "https://phonesstorekenya.com/brand/vivo/",
+      "source_title": "vivo - Phones Store Kenya",
+      "source_bytes": 589843
+    },
+    {
+      "route": "/brand/xbox",
+      "file": "brand-archives/xbox.html",
+      "source": "https://phonesstorekenya.com/brand/xbox/",
+      "source_title": "Xbox - Phones Store Kenya",
+      "source_bytes": 491072
+    },
+    {
+      "route": "/brand/xiaomi",
+      "file": "brand-archives/xiaomi.html",
+      "source": "https://phonesstorekenya.com/brand/xiaomi/",
+      "source_title": "Xiaomi - Phones Store Kenya",
+      "source_bytes": 586018
+    },
+    {
+      "route": "/brands",
+      "file": "brands.html",
+      "source": "https://phonesstorekenya.com/brands/",
+      "source_title": "Brands - Phones Store Kenya",
+      "source_bytes": 433934
+    },
+    {
+      "route": "/cart",
+      "file": "commerce/cart.html",
+      "source": "https://phonesstorekenya.com/cart/",
+      "source_title": "Shopping Cart - Phones Store Kenya",
+      "source_bytes": 255155
+    },
+    {
+      "route": "/my-account-3",
+      "file": "commerce/account.html",
+      "source": "https://phonesstorekenya.com/my-account-3/",
+      "source_title": "My Account - Phones Store Kenya",
+      "source_bytes": 251115
+    },
+    {
+      "route": "/my-account-3/lost-password",
+      "file": "commerce/lost-password.html",
+      "source": "https://phonesstorekenya.com/my-account-3/lost-password/",
+      "source_title": "My Account - Phones Store Kenya",
+      "source_bytes": 236518
+    },
+    {
+      "route": "/iphone-18-series-price-in-kenya",
+      "file": "iphone-18-series-price-in-kenya.html",
+      "source": "https://phonesstorekenya.com/iphone-18-series-price-in-kenya/",
+      "source_title": "iPhone 18 Series Price in Kenya - Phones Store Kenya",
+      "source_bytes": 497564
+    },
+    {
+      "route": "/lipa-mdogo-mdogo-phones",
+      "file": "lipa-mdogo-mdogo-phones.html",
+      "source": "https://phonesstorekenya.com/lipa-mdogo-mdogo-phones/",
+      "source_title": "Lipa Mdogo Mdogo Phones in Kenya (2026) - Buy Now, Pay in Installments - Phones Store Kenya",
+      "source_bytes": 928375
+    },
+    {
+      "route": "/samsung-galaxy-s26-prices-in-kenya",
+      "file": "samsung-galaxy-s26-prices-in-kenya.html",
+      "source": "https://phonesstorekenya.com/samsung-galaxy-s26-prices-in-kenya/",
+      "source_title": "Samsung Galaxy S26, Plus, Ultra and FE Price in Kenya",
+      "source_bytes": 478025
+    },
+    {
+      "route": "/product-category/apple-iphone",
+      "file": "categories/apple-iphone/index.html",
+      "source": "https://phonesstorekenya.com/product-category/apple-iphone/",
+      "source_title": "Apple - Phones Store Kenya",
+      "source_bytes": 565642
+    },
+    {
+      "route": "/product-category/apple-iphone/apple-accessories",
+      "file": "categories/apple-iphone/apple-accessories/index.html",
+      "source": "https://phonesstorekenya.com/product-category/apple-iphone/apple-accessories/",
+      "source_title": "Apple Accessories - Phones Store Kenya",
+      "source_bytes": 550718
+    },
+    {
+      "route": "/product-category/apple-iphone/apple-ipad",
+      "file": "categories/apple-iphone/apple-ipad/index.html",
+      "source": "https://phonesstorekenya.com/product-category/apple-iphone/apple-ipad/",
+      "source_title": "Apple iPad - Phones Store Kenya",
+      "source_bytes": 350353
+    },
+    {
+      "route": "/product-category/apple-iphone/apple-pencil",
+      "file": "categories/apple-iphone/apple-pencil/index.html",
+      "source": "https://phonesstorekenya.com/product-category/apple-iphone/apple-pencil/",
+      "source_title": "Apple Pencil - Phones Store Kenya",
+      "source_bytes": 341689
+    },
+    {
+      "route": "/product-category/apple-iphone/imac",
+      "file": "categories/apple-iphone/imac/index.html",
+      "source": "https://phonesstorekenya.com/product-category/apple-iphone/imac/",
+      "source_title": "iMac - Phones Store Kenya",
+      "source_bytes": 330875
+    },
+    {
+      "route": "/product-category/apple-iphone/macbooks",
+      "file": "categories/apple-iphone/macbooks/index.html",
+      "source": "https://phonesstorekenya.com/product-category/apple-iphone/macbooks/",
+      "source_title": "Latest MacBooks Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 522239
+    },
+    {
+      "route": "/product-category/asus",
+      "file": "categories/asus/index.html",
+      "source": "https://phonesstorekenya.com/product-category/asus/",
+      "source_title": "Asus - Phones Store Kenya",
+      "source_bytes": 344578
+    },
+    {
+      "route": "/product-category/audio",
+      "file": "categories/audio/index.html",
+      "source": "https://phonesstorekenya.com/product-category/audio/",
+      "source_title": "Audio - Phones Store Kenya",
+      "source_bytes": 691414
+    },
+    {
+      "route": "/product-category/audio/buds",
+      "file": "categories/audio/buds/index.html",
+      "source": "https://phonesstorekenya.com/product-category/audio/buds/",
+      "source_title": "Latest Ear Buds Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 582415
+    },
+    {
+      "route": "/product-category/audio/earphones",
+      "file": "categories/audio/earphones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/audio/earphones/",
+      "source_title": "Earphones - Phones Store Kenya",
+      "source_bytes": 554195
+    },
+    {
+      "route": "/product-category/audio/headphones",
+      "file": "categories/audio/headphones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/audio/headphones/",
+      "source_title": "Buy The Latest Headphones in Kenya - Phones Store Kenya",
+      "source_bytes": 620972
+    },
+    {
+      "route": "/product-category/audio/soundbar",
+      "file": "categories/audio/soundbar/index.html",
+      "source": "https://phonesstorekenya.com/product-category/audio/soundbar/",
+      "source_title": "Soundbar - Phones Store Kenya",
+      "source_bytes": 526522
+    },
+    {
+      "route": "/product-category/audio/speakers",
+      "file": "categories/audio/speakers/index.html",
+      "source": "https://phonesstorekenya.com/product-category/audio/speakers/",
+      "source_title": "Speakers - Phones Store Kenya",
+      "source_bytes": 570594
+    },
+    {
+      "route": "/product-category/creator-equipment",
+      "file": "categories/creator-equipment/index.html",
+      "source": "https://phonesstorekenya.com/product-category/creator-equipment/",
+      "source_title": "Creator Equipment - Phones Store Kenya",
+      "source_bytes": 644757
+    },
+    {
+      "route": "/product-category/creator-equipment/cameras",
+      "file": "categories/creator-equipment/cameras/index.html",
+      "source": "https://phonesstorekenya.com/product-category/creator-equipment/cameras/",
+      "source_title": "Latest Cameras Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 609322
+    },
+    {
+      "route": "/product-category/creator-equipment/handheld-gimbals-stabilizers",
+      "file": "categories/creator-equipment/handheld-gimbals-stabilizers/index.html",
+      "source": "https://phonesstorekenya.com/product-category/creator-equipment/handheld-gimbals-stabilizers/",
+      "source_title": "Handheld Gimbals &amp; Stabilizers - Phones Store Kenya",
+      "source_bytes": 560902
+    },
+    {
+      "route": "/product-category/creator-equipment/ring-light",
+      "file": "categories/creator-equipment/ring-light/index.html",
+      "source": "https://phonesstorekenya.com/product-category/creator-equipment/ring-light/",
+      "source_title": "Ring Light - Phones Store Kenya",
+      "source_bytes": 344810
+    },
+    {
+      "route": "/product-category/creator-equipment/wireless-microphone",
+      "file": "categories/creator-equipment/wireless-microphone/index.html",
+      "source": "https://phonesstorekenya.com/product-category/creator-equipment/wireless-microphone/",
+      "source_title": "Microphone - Phones Store Kenya",
+      "source_bytes": 524895
+    },
+    {
+      "route": "/product-category/ex-uk-phones",
+      "file": "categories/ex-uk-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/ex-uk-phones/",
+      "source_title": "Ex-UK Phones in Kenya | Samsung, iPhone &amp; More - Phones Store Kenya",
+      "source_bytes": 584689
+    },
+    {
+      "route": "/product-category/gaming",
+      "file": "categories/gaming/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/",
+      "source_title": "Gaming - Phones Store Kenya",
+      "source_bytes": 720313
+    },
+    {
+      "route": "/product-category/gaming/controller",
+      "file": "categories/gaming/controller/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/controller/",
+      "source_title": "Gaming Controller - Phones Store Kenya",
+      "source_bytes": 623896
+    },
+    {
+      "route": "/product-category/gaming/gaming-accessories",
+      "file": "categories/gaming/gaming-accessories/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/gaming-accessories/",
+      "source_title": "Gaming Accessories - Phones Store Kenya",
+      "source_bytes": 648616
+    },
+    {
+      "route": "/product-category/gaming/gaming-consoles",
+      "file": "categories/gaming/gaming-consoles/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/gaming-consoles/",
+      "source_title": "Gaming Consoles - Phones Store Kenya",
+      "source_bytes": 547537
+    },
+    {
+      "route": "/product-category/gaming/gaming-consoles/nintendo-consoles",
+      "file": "categories/gaming/gaming-consoles/nintendo-consoles/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/gaming-consoles/nintendo-consoles/",
+      "source_title": "Nintendo Consoles - Phones Store Kenya",
+      "source_bytes": 389843
+    },
+    {
+      "route": "/product-category/gaming/gaming-consoles/playstation-console",
+      "file": "categories/gaming/gaming-consoles/playstation-console/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/gaming-consoles/playstation-console/",
+      "source_title": "PlayStation console - Phones Store Kenya",
+      "source_bytes": 455168
+    },
+    {
+      "route": "/product-category/gaming/gaming-consoles/xbox-console",
+      "file": "categories/gaming/gaming-consoles/xbox-console/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/gaming-consoles/xbox-console/",
+      "source_title": "Xbox console - Phones Store Kenya",
+      "source_bytes": 331694
+    },
+    {
+      "route": "/product-category/gaming/gaming-headsets",
+      "file": "categories/gaming/gaming-headsets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/gaming-headsets/",
+      "source_title": "Gaming Headsets - Phones Store Kenya",
+      "source_bytes": 371499
+    },
+    {
+      "route": "/product-category/gaming/nintendo-games",
+      "file": "categories/gaming/nintendo-games/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/nintendo-games/",
+      "source_title": "Nintendo Games - Phones Store Kenya",
+      "source_bytes": 608613
+    },
+    {
+      "route": "/product-category/gaming/playstation-games",
+      "file": "categories/gaming/playstation-games/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/playstation-games/",
+      "source_title": "PlayStation Games - Phones Store Kenya",
+      "source_bytes": 562077
+    },
+    {
+      "route": "/product-category/gaming/simulators",
+      "file": "categories/gaming/simulators/index.html",
+      "source": "https://phonesstorekenya.com/product-category/gaming/simulators/",
+      "source_title": "Simulators - Phones Store Kenya",
+      "source_bytes": 331283
+    },
+    {
+      "route": "/product-category/laptop-accessories",
+      "file": "categories/laptop-accessories/index.html",
+      "source": "https://phonesstorekenya.com/product-category/laptop-accessories/",
+      "source_title": "Laptop Accessories - Phones Store Kenya",
+      "source_bytes": 387677
+    },
+    {
+      "route": "/product-category/laptops",
+      "file": "categories/laptops/index.html",
+      "source": "https://phonesstorekenya.com/product-category/laptops/",
+      "source_title": "Laptops &amp; Macbooks - Phones Store Kenya",
+      "source_bytes": 348299
+    },
+    {
+      "route": "/product-category/lenovo",
+      "file": "categories/lenovo/index.html",
+      "source": "https://phonesstorekenya.com/product-category/lenovo/",
+      "source_title": "Lenovo - Phones Store Kenya",
+      "source_bytes": 393377
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories",
+      "file": "categories/mobile-phone-accessories/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/",
+      "source_title": "Mobile Accessories - Phones Store Kenya",
+      "source_bytes": 706566
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/chargers",
+      "file": "categories/mobile-phone-accessories/chargers/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/chargers/",
+      "source_title": "Latest Smartphone Chargers Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 566603
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/modems",
+      "file": "categories/mobile-phone-accessories/modems/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/modems/",
+      "source_title": "Modems - Phones Store Kenya",
+      "source_bytes": 324500
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/mouse",
+      "file": "categories/mobile-phone-accessories/mouse/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/mouse/",
+      "source_title": "Mouse - Phones Store Kenya",
+      "source_bytes": 326497
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/phone-covers",
+      "file": "categories/mobile-phone-accessories/phone-covers/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/phone-covers/",
+      "source_title": "Latest Phone Covers In Kenya - Phones Store Kenya",
+      "source_bytes": 489613
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/powerbank",
+      "file": "categories/mobile-phone-accessories/powerbank/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/powerbank/",
+      "source_title": "Latest Powerbank Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 523907
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/protectors",
+      "file": "categories/mobile-phone-accessories/protectors/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/protectors/",
+      "source_title": "Latest Screen Protectors in Kenya - Phones Store Kenya",
+      "source_bytes": 472725
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/samsung-accessories",
+      "file": "categories/mobile-phone-accessories/samsung-accessories/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/samsung-accessories/",
+      "source_title": "Samsung Accessories - Phones Store Kenya",
+      "source_bytes": 496544
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/streaming-devices",
+      "file": "categories/mobile-phone-accessories/streaming-devices/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/streaming-devices/",
+      "source_title": "Streaming Devices - Phones Store Kenya",
+      "source_bytes": 403970
+    },
+    {
+      "route": "/product-category/mobile-phone-accessories/vr",
+      "file": "categories/mobile-phone-accessories/vr/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/vr/",
+      "source_title": "Latest VR Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 347777
+    },
+    {
+      "route": "/product-category/powerbank-2",
+      "file": "categories/powerbank-2/index.html",
+      "source": "https://phonesstorekenya.com/product-category/mobile-phone-accessories/powerbank/",
+      "source_title": "Latest Powerbank Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 523907
+    },
+    {
+      "route": "/product-category/smart-tags",
+      "file": "categories/smart-tags/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smart-tags/",
+      "source_title": "Smart Tags - Phones Store Kenya",
+      "source_bytes": 321847
+    },
+    {
+      "route": "/product-category/smartphones",
+      "file": "categories/smartphones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/",
+      "source_title": "Smartphones - Phones Store Kenya",
+      "source_bytes": 689035
+    },
+    {
+      "route": "/product-category/smartphones/blackview-phones",
+      "file": "categories/smartphones/blackview-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/blackview-phones/",
+      "source_title": "Blackview Phones - Phones Store Kenya",
+      "source_bytes": 371433
+    },
+    {
+      "route": "/product-category/smartphones/hmd-phones",
+      "file": "categories/smartphones/hmd-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/hmd-phones/",
+      "source_title": "HMD Phones - Phones Store Kenya",
+      "source_bytes": 354904
+    },
+    {
+      "route": "/product-category/smartphones/honor-phones",
+      "file": "categories/smartphones/honor-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/honor-phones/",
+      "source_title": "Honor Phones - Phones Store Kenya",
+      "source_bytes": 541507
+    },
+    {
+      "route": "/product-category/smartphones/huawei-phones",
+      "file": "categories/smartphones/huawei-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/huawei-phones/",
+      "source_title": "Huawei Phones Prices in Kenya | Phones Store Kenya",
+      "source_bytes": 536113
+    },
+    {
+      "route": "/product-category/smartphones/infinix-phones",
+      "file": "categories/smartphones/infinix-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/infinix-phones/",
+      "source_title": "Infinix Phones - Phones Store Kenya",
+      "source_bytes": 569139
+    },
+    {
+      "route": "/product-category/smartphones/iphone",
+      "file": "categories/smartphones/iphone/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/iphone/",
+      "source_title": "Apple iPhone - Phones Store Kenya",
+      "source_bytes": 604015
+    },
+    {
+      "route": "/product-category/smartphones/itel-phones",
+      "file": "categories/smartphones/itel-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/itel-phones/",
+      "source_title": "Latest Itel Phones Phones in Kenya - Phones Store Kenya",
+      "source_bytes": 541767
+    },
+    {
+      "route": "/product-category/smartphones/motorola-phones",
+      "file": "categories/smartphones/motorola-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/motorola-phones/",
+      "source_title": "Latest Motorola Phones Phones in Kenya - Phones Store Kenya",
+      "source_bytes": 542745
+    },
+    {
+      "route": "/product-category/smartphones/nothing-phones",
+      "file": "categories/smartphones/nothing-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/nothing-phones/",
+      "source_title": "Nothing Phones - Phones Store Kenya",
+      "source_bytes": 435699
+    },
+    {
+      "route": "/product-category/smartphones/oneplus-phones",
+      "file": "categories/smartphones/oneplus-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/oneplus-phones/",
+      "source_title": "OnePlus Phones - Phones Store Kenya",
+      "source_bytes": 547218
+    },
+    {
+      "route": "/product-category/smartphones/oppo-phones",
+      "file": "categories/smartphones/oppo-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/oppo-phones/",
+      "source_title": "OPPO Phones Prices in Kenya | Phones Store Kenya",
+      "source_bytes": 534337
+    },
+    {
+      "route": "/product-category/smartphones/philips-phones",
+      "file": "categories/smartphones/philips-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/philips-phones/",
+      "source_title": "Philips phones - Phones Store Kenya",
+      "source_bytes": 332091
+    },
+    {
+      "route": "/product-category/smartphones/pixel-phones",
+      "file": "categories/smartphones/pixel-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/pixel-phones/",
+      "source_title": "Pixel Phones - Phones Store Kenya",
+      "source_bytes": 555063
+    },
+    {
+      "route": "/product-category/smartphones/poco-phone",
+      "file": "categories/smartphones/poco-phone/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/poco-phone/",
+      "source_title": "Poco Phone - Phones Store Kenya",
+      "source_bytes": 531952
+    },
+    {
+      "route": "/product-category/smartphones/realme-phones",
+      "file": "categories/smartphones/realme-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/realme-phones/",
+      "source_title": "Realme Phones - Phones Store Kenya",
+      "source_bytes": 515734
+    },
+    {
+      "route": "/product-category/smartphones/samsung-phones",
+      "file": "categories/smartphones/samsung-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/samsung-phones/",
+      "source_title": "Samsung Phones Prices in Kenya | Phones Store Kenya",
+      "source_bytes": 552446
+    },
+    {
+      "route": "/product-category/smartphones/sony-phones",
+      "file": "categories/smartphones/sony-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/sony-phones/",
+      "source_title": "Sony Phones - Phones Store Kenya",
+      "source_bytes": 389947
+    },
+    {
+      "route": "/product-category/smartphones/tecno-phones",
+      "file": "categories/smartphones/tecno-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/tecno-phones/",
+      "source_title": "Tecno Phones Prices in Kenya | Phones Store Kenya",
+      "source_bytes": 554667
+    },
+    {
+      "route": "/product-category/smartphones/vivo-phones",
+      "file": "categories/smartphones/vivo-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/vivo-phones/",
+      "source_title": "Vivo Phones - Phones Store Kenya",
+      "source_bytes": 533077
+    },
+    {
+      "route": "/product-category/smartphones/wiko-phones",
+      "file": "categories/smartphones/wiko-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/wiko-phones/",
+      "source_title": "Wiko Phones - Phones Store Kenya",
+      "source_bytes": 337930
+    },
+    {
+      "route": "/product-category/smartphones/xiaomi-phones",
+      "file": "categories/smartphones/xiaomi-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/xiaomi-phones/",
+      "source_title": "Xiaomi Phones - Phones Store Kenya",
+      "source_bytes": 541522
+    },
+    {
+      "route": "/product-category/smartphones/zte-phones",
+      "file": "categories/smartphones/zte-phones/index.html",
+      "source": "https://phonesstorekenya.com/product-category/smartphones/zte-phones/",
+      "source_title": "ZTE Phones - Phones Store Kenya",
+      "source_bytes": 440510
+    },
+    {
+      "route": "/product-category/storage-devices",
+      "file": "categories/storage-devices/index.html",
+      "source": "https://phonesstorekenya.com/product-category/storage-devices/",
+      "source_title": "Storage Devices - Phones Store Kenya",
+      "source_bytes": 523293
+    },
+    {
+      "route": "/product-category/storage-devices/flash-drives",
+      "file": "categories/storage-devices/flash-drives/index.html",
+      "source": "https://phonesstorekenya.com/product-category/storage-devices/flash-drives/",
+      "source_title": "Flash Drives - Phones Store Kenya",
+      "source_bytes": 390398
+    },
+    {
+      "route": "/product-category/storage-devices/hard-disks",
+      "file": "categories/storage-devices/hard-disks/index.html",
+      "source": "https://phonesstorekenya.com/product-category/storage-devices/hard-disks/",
+      "source_title": "Hard Disks - Phones Store Kenya",
+      "source_bytes": 431799
+    },
+    {
+      "route": "/product-category/storage-devices/memory-cards",
+      "file": "categories/storage-devices/memory-cards/index.html",
+      "source": "https://phonesstorekenya.com/product-category/storage-devices/memory-cards/",
+      "source_title": "Memory Cards - Phones Store Kenya",
+      "source_bytes": 374392
+    },
+    {
+      "route": "/product-category/storage-devices/portable-ssd",
+      "file": "categories/storage-devices/portable-ssd/index.html",
+      "source": "https://phonesstorekenya.com/product-category/storage-devices/portable-ssd/",
+      "source_title": "Portable SSD - Phones Store Kenya",
+      "source_bytes": 343224
+    },
+    {
+      "route": "/product-category/tablet-accessories",
+      "file": "categories/tablet-accessories/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablet-accessories/",
+      "source_title": "Tablet Accessories - Phones Store Kenya",
+      "source_bytes": 334104
+    },
+    {
+      "route": "/product-category/tablet-keyboards",
+      "file": "categories/tablet-keyboards/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablet-keyboards/",
+      "source_title": "Tablet Keyboards - Phones Store Kenya",
+      "source_bytes": 338503
+    },
+    {
+      "route": "/product-category/tablets",
+      "file": "categories/tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/",
+      "source_title": "Tablets &amp; iPads - Phones Store Kenya",
+      "source_bytes": 614933
+    },
+    {
+      "route": "/product-category/tablets/amazon-tablets",
+      "file": "categories/tablets/amazon-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/amazon-tablets/",
+      "source_title": "Amazon Tablets - Phones Store Kenya",
+      "source_bytes": 390217
+    },
+    {
+      "route": "/product-category/tablets/huawei-tablets",
+      "file": "categories/tablets/huawei-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/huawei-tablets/",
+      "source_title": "Huawei Tablets - Phones Store Kenya",
+      "source_bytes": 300462
+    },
+    {
+      "route": "/product-category/tablets/idino-tablets",
+      "file": "categories/tablets/idino-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/idino-tablets/",
+      "source_title": "Idino Tablets - Phones Store Kenya",
+      "source_bytes": 335776
+    },
+    {
+      "route": "/product-category/tablets/infinix-tablets",
+      "file": "categories/tablets/infinix-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/infinix-tablets/",
+      "source_title": "Infinix Tablets - Phones Store Kenya",
+      "source_bytes": 330533
+    },
+    {
+      "route": "/product-category/tablets/ipad",
+      "file": "categories/tablets/ipad/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/ipad/",
+      "source_title": "Apple iPad - Phones Store Kenya",
+      "source_bytes": 499446
+    },
+    {
+      "route": "/product-category/tablets/kids-tablets",
+      "file": "categories/tablets/kids-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/kids-tablets/",
+      "source_title": "Kids Tablets - Phones Store Kenya",
+      "source_bytes": 520168
+    },
+    {
+      "route": "/product-category/tablets/lenovo-tablets",
+      "file": "categories/tablets/lenovo-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/lenovo-tablets/",
+      "source_title": "Lenovo Tablets - Phones Store Kenya",
+      "source_bytes": 435824
+    },
+    {
+      "route": "/product-category/tablets/oneplus-tablets",
+      "file": "categories/tablets/oneplus-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/oneplus-tablets/",
+      "source_title": "OnePlus Tablets - Phones Store Kenya",
+      "source_bytes": 325460
+    },
+    {
+      "route": "/product-category/tablets/oppo-tablets",
+      "file": "categories/tablets/oppo-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/oppo-tablets/",
+      "source_title": "Oppo Tablets - Phones Store Kenya",
+      "source_bytes": 326345
+    },
+    {
+      "route": "/product-category/tablets/poco-tablets",
+      "file": "categories/tablets/poco-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/poco-tablets/",
+      "source_title": "Poco Tablets - Phones Store Kenya",
+      "source_bytes": 324015
+    },
+    {
+      "route": "/product-category/tablets/redmi-tablets",
+      "file": "categories/tablets/redmi-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/redmi-tablets/",
+      "source_title": "Redmi Tablets - Phones Store Kenya",
+      "source_bytes": 340995
+    },
+    {
+      "route": "/product-category/tablets/remarkable-tablets",
+      "file": "categories/tablets/remarkable-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/remarkable-tablets/",
+      "source_title": "reMarkable Tablets - Phones Store Kenya",
+      "source_bytes": 433013
+    },
+    {
+      "route": "/product-category/tablets/samsung-tablets",
+      "file": "categories/tablets/samsung-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/samsung-tablets/",
+      "source_title": "Samsung Tablets - Phones Store Kenya",
+      "source_bytes": 446780
+    },
+    {
+      "route": "/product-category/tablets/tecno-tablets",
+      "file": "categories/tablets/tecno-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/tecno-tablets/",
+      "source_title": "Tecno Tablets - Phones Store Kenya",
+      "source_bytes": 302264
+    },
+    {
+      "route": "/product-category/tablets/telzeal-tablets",
+      "file": "categories/tablets/telzeal-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/telzeal-tablets/",
+      "source_title": "Telzeal Tablets - Phones Store Kenya",
+      "source_bytes": 341313
+    },
+    {
+      "route": "/product-category/tablets/vivo-tablets",
+      "file": "categories/tablets/vivo-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/vivo-tablets/",
+      "source_title": "Vivo Tablets - Phones Store Kenya",
+      "source_bytes": 328603
+    },
+    {
+      "route": "/product-category/tablets/winro-tablets",
+      "file": "categories/tablets/winro-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/winro-tablets/",
+      "source_title": "Winro Tablets - Phones Store Kenya",
+      "source_bytes": 331309
+    },
+    {
+      "route": "/product-category/tablets/x-tigi",
+      "file": "categories/tablets/x-tigi/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/x-tigi/",
+      "source_title": "X-TIGI Tablets - Phones Store Kenya",
+      "source_bytes": 320714
+    },
+    {
+      "route": "/product-category/tablets/xiaomi-tablets",
+      "file": "categories/tablets/xiaomi-tablets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/tablets/xiaomi-tablets/",
+      "source_title": "Xiaomi Tablets - Phones Store Kenya",
+      "source_bytes": 350799
+    },
+    {
+      "route": "/product-category/vr-headsets",
+      "file": "categories/vr-headsets/index.html",
+      "source": "https://phonesstorekenya.com/product-category/vr-headsets/",
+      "source_title": "VR Headsets - Phones Store Kenya",
+      "source_bytes": 323533
+    },
+    {
+      "route": "/product-category/wearables",
+      "file": "categories/wearables/index.html",
+      "source": "https://phonesstorekenya.com/product-category/wearables/",
+      "source_title": "Wearables - Phones Store Kenya",
+      "source_bytes": 670592
+    },
+    {
+      "route": "/product-category/wearables/smart-bands",
+      "file": "categories/wearables/smart-bands/index.html",
+      "source": "https://phonesstorekenya.com/product-category/wearables/smart-bands/",
+      "source_title": "Smart Bands - Phones Store Kenya",
+      "source_bytes": 595793
+    },
+    {
+      "route": "/product-category/wearables/smart-glasses",
+      "file": "categories/wearables/smart-glasses/index.html",
+      "source": "https://phonesstorekenya.com/product-category/wearables/smart-glasses/",
+      "source_title": "Smart Glasses - Phones Store Kenya",
+      "source_bytes": 409563
+    },
+    {
+      "route": "/product-category/wearables/smart-ring",
+      "file": "categories/wearables/smart-ring/index.html",
+      "source": "https://phonesstorekenya.com/product-category/wearables/smart-ring/",
+      "source_title": "Smart Ring - Phones Store Kenya",
+      "source_bytes": 341048
+    },
+    {
+      "route": "/product-category/wearables/smartwatch",
+      "file": "categories/wearables/smartwatch/index.html",
+      "source": "https://phonesstorekenya.com/product-category/wearables/smartwatch/",
+      "source_title": "Latest Smartwatch Prices in Kenya - Phones Store Kenya",
+      "source_bytes": 619778
+    },
+    {
+      "route": "/product/amazon-fire-7-kids-tablet",
+      "file": "products/amazon-fire-7-kids-tablet.html",
+      "source": "https://phonesstorekenya.com/product/amazon-fire-7-kids-tablet/",
+      "source_title": "Amazon Fire 7 Kids Tablet Price in Kenya - Phones Store Kenya",
+      "source_bytes": 399023
+    },
+    {
+      "route": "/product/anker-nano-charger-100w-with-usb-c-cable",
+      "file": "products/anker-nano-charger-100w-with-usb-c-cable.html",
+      "source": "https://phonesstorekenya.com/product/anker-nano-charger-100w-with-usb-c-cable/",
+      "source_title": "Anker Nano Charger (100W) with USB-C Cable Price in Kenya - Phones Store Kenya",
+      "source_bytes": 419956
+    },
+    {
+      "route": "/product/anker-nano-charger-45w-with-usb-c-to-usb-c-cable",
+      "file": "products/anker-nano-charger-45w-with-usb-c-to-usb-c-cable.html",
+      "source": "https://phonesstorekenya.com/product/anker-nano-charger-45w-with-usb-c-to-usb-c-cable/",
+      "source_title": "Anker Nano Charger (45W) with USB-C to USB-C Cable Price in Kenya - Phones Store Kenya",
+      "source_bytes": 396025
+    },
+    {
+      "route": "/product/anker-prime-power-bank-2000mah-220w",
+      "file": "products/anker-prime-power-bank-2000mah-220w.html",
+      "source": "https://phonesstorekenya.com/product/anker-prime-power-bank-2000mah-220w/",
+      "source_title": "Anker Prime Power Bank (20K 220W) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 409067
+    },
+    {
+      "route": "/product/anker-zolo-charger-20wpd-3-0",
+      "file": "products/anker-zolo-charger-20wpd-3-0.html",
+      "source": "https://phonesstorekenya.com/product/anker-zolo-charger-20wpd-3-0/",
+      "source_title": "Anker Zolo Charger (20W,PD 3.0) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 395778
+    },
+    {
+      "route": "/product/anker-zolo-charger-30w-pd-3-0",
+      "file": "products/anker-zolo-charger-30w-pd-3-0.html",
+      "source": "https://phonesstorekenya.com/product/anker-zolo-charger-30w-pd-3-0/",
+      "source_title": "Anker Zolo Charger 30W, PD 3.0 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 394652
+    },
+    {
+      "route": "/product/anker-zolo-powerbank",
+      "file": "products/anker-zolo-powerbank.html",
+      "source": "https://phonesstorekenya.com/product/anker-zolo-powerbank/",
+      "source_title": "Anker Zolo Powerbank 20000mAh 22.5W Price in Kenya - Phones Store Kenya",
+      "source_bytes": 405429
+    },
+    {
+      "route": "/product/apple-40w-dynamic-power-adapter-with-60w-max",
+      "file": "products/apple-40w-dynamic-power-adapter-with-60w-max.html",
+      "source": "https://phonesstorekenya.com/product/apple-40w-dynamic-power-adapter-with-60w-max/",
+      "source_title": "Apple 40W Dynamic Power Adapter with 60W Max Price in Kenya - Phones Store Kenya",
+      "source_bytes": 399798
+    },
+    {
+      "route": "/product/apple-iphone-14",
+      "file": "products/apple-iphone-14.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-14/",
+      "source_title": "Apple iPhone 14 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 524521
+    },
+    {
+      "route": "/product/apple-iphone-14-plus",
+      "file": "products/apple-iphone-14-plus.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-14-plus/",
+      "source_title": "Apple iPhone 14 Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 518968
+    },
+    {
+      "route": "/product/apple-iphone-14-pro",
+      "file": "products/apple-iphone-14-pro.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-14-pro/",
+      "source_title": "Apple iPhone 14 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 540547
+    },
+    {
+      "route": "/product/apple-iphone-14-pro-max",
+      "file": "products/apple-iphone-14-pro-max.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-14-pro-max/",
+      "source_title": "Apple iPhone 14 Pro Max Price in Kenya - Phones Store Kenya",
+      "source_bytes": 510445
+    },
+    {
+      "route": "/product/apple-iphone-15",
+      "file": "products/apple-iphone-15.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-15/",
+      "source_title": "Apple iPhone 15 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 557094
+    },
+    {
+      "route": "/product/apple-iphone-15-plus",
+      "file": "products/apple-iphone-15-plus.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-15-plus/",
+      "source_title": "Apple iPhone 15 Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 551614
+    },
+    {
+      "route": "/product/apple-iphone-15-pro",
+      "file": "products/apple-iphone-15-pro.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-15-pro/",
+      "source_title": "Apple iPhone 15 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 535582
+    },
+    {
+      "route": "/product/apple-iphone-15-pro-max",
+      "file": "products/apple-iphone-15-pro-max.html",
+      "source": "https://phonesstorekenya.com/product/apple-iphone-15-pro-max/",
+      "source_title": "Apple iPhone 15 Pro Max Price in Kenya - Phones Store Kenya",
+      "source_bytes": 536401
+    },
+    {
+      "route": "/product/apple-usb-c-to-lightning-cable",
+      "file": "products/apple-usb-c-to-lightning-cable.html",
+      "source": "https://phonesstorekenya.com/product/apple-usb-c-to-lightning-cable/",
+      "source_title": "Apple USB-C to Lightning Cable Price in Kenya - Phones Store Kenya",
+      "source_bytes": 484699
+    },
+    {
+      "route": "/product/apple-watch-series-12",
+      "file": "products/apple-watch-series-12.html",
+      "source": "https://phonesstorekenya.com/product/apple-watch-series-12/",
+      "source_title": "Apple Watch Series 12 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 511561
+    },
+    {
+      "route": "/product/beats-studio-pro-headphones",
+      "file": "products/beats-studio-pro-headphones.html",
+      "source": "https://phonesstorekenya.com/product/beats-studio-pro-headphones/",
+      "source_title": "Beats Studio Pro Headphones Price in Kenya - Phones Store Kenya",
+      "source_bytes": 423745
+    },
+    {
+      "route": "/product/bose-quietcomfort-ultra-headphones-2nd-gen",
+      "file": "products/bose-quietcomfort-ultra-headphones-2nd-gen.html",
+      "source": "https://phonesstorekenya.com/product/bose-quietcomfort-ultra-headphones-2nd-gen/",
+      "source_title": "Bose QuietComfort Ultra Headphones (2nd Gen) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 427822
+    },
+    {
+      "route": "/product/controller-ghost-of-yotei",
+      "file": "products/controller-ghost-of-yotei.html",
+      "source": "https://phonesstorekenya.com/product/controller-ghost-of-yotei/",
+      "source_title": "DualSense Wireless Controller - Ghost of Yōtei Gold Limited Edition Price in Kenya - Phones Store Kenya",
+      "source_bytes": 450848
+    },
+    {
+      "route": "/product/cooling-fan-for-ps5",
+      "file": "products/cooling-fan-for-ps5.html",
+      "source": "https://phonesstorekenya.com/product/cooling-fan-for-ps5/",
+      "source_title": "Cooling Fan for PS5 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 459555
+    },
+    {
+      "route": "/product/divo-dual-controller-charging-dock",
+      "file": "products/divo-dual-controller-charging-dock.html",
+      "source": "https://phonesstorekenya.com/product/divo-dual-controller-charging-dock/",
+      "source_title": "Divo Dual Controller Charging Dock Price in Kenya - Phones Store Kenya",
+      "source_bytes": 467712
+    },
+    {
+      "route": "/product/dji-rs-5-gimbal-combo-kit",
+      "file": "products/dji-rs-5-gimbal-combo-kit.html",
+      "source": "https://phonesstorekenya.com/product/dji-rs-5-gimbal-combo-kit/",
+      "source_title": "DJI RS 5 Gimbal Combo Kit Price in Kenya - Phones Store Kenya",
+      "source_bytes": 427427
+    },
+    {
+      "route": "/product/dualsense-wireless-controller-astro-bot-limited-edition",
+      "file": "products/dualsense-wireless-controller-astro-bot-limited-edition.html",
+      "source": "https://phonesstorekenya.com/product/dualsense-wireless-controller-astro-bot-limited-edition/",
+      "source_title": "DualSense Wireless Controller - ASTRO BOT Limited Edition Price in Kenya - Phones Store Kenya",
+      "source_bytes": 442765
+    },
+    {
+      "route": "/product/dualsense-wireless-controller-lebron-james-limited-edition",
+      "file": "products/dualsense-wireless-controller-lebron-james-limited-edition.html",
+      "source": "https://phonesstorekenya.com/product/dualsense-wireless-controller-lebron-james-limited-edition/",
+      "source_title": "DualSense Wireless Controller - LeBron James Limited Edition Price in Kenya - Phones Store Kenya",
+      "source_bytes": 430886
+    },
+    {
+      "route": "/product/dualsense-wireless-controller-marvels-spider-man-2-limited-edition",
+      "file": "products/dualsense-wireless-controller-marvels-spider-man-2-limited-edition.html",
+      "source": "https://phonesstorekenya.com/product/dualsense-wireless-controller-marvels-spider-man-2-limited-edition/",
+      "source_title": "DualSense Wireless Controller - Marvel&#039;s Spider-Man 2 Limited Edition Price in Kenya - Phones Store Kenya",
+      "source_bytes": 455332
+    },
+    {
+      "route": "/product/dualsense-wireless-controller-marvels-wolverine-limited-edition",
+      "file": "products/dualsense-wireless-controller-marvels-wolverine-limited-edition.html",
+      "source": "https://phonesstorekenya.com/product/dualsense-wireless-controller-marvels-wolverine-limited-edition/",
+      "source_title": "DualSense Wireless Controller - Marvel&#039;s Wolverine Limited Edition Price in Kenya - Phones Store Kenya",
+      "source_bytes": 447130
+    },
+    {
+      "route": "/product/dualsense-wireless-controller-the-last-of-us-limited-edition",
+      "file": "products/dualsense-wireless-controller-the-last-of-us-limited-edition.html",
+      "source": "https://phonesstorekenya.com/product/dualsense-wireless-controller-the-last-of-us-limited-edition/",
+      "source_title": "DualSense Wireless Controller - The Last of Us Limited Edition Price in Kenya - Phones Store Kenya",
+      "source_bytes": 442093
+    },
+    {
+      "route": "/product/ezgnuk-game-console-carrying-case-for-xbox-series-x",
+      "file": "products/ezgnuk-game-console-carrying-case-for-xbox-series-x.html",
+      "source": "https://phonesstorekenya.com/product/ezgnuk-game-console-carrying-case-for-xbox-series-x/",
+      "source_title": "Ezgnuk Game Console Carrying Case for Xbox Series X Price in Kenya - Phones Store Kenya",
+      "source_bytes": 466272
+    },
+    {
+      "route": "/product/google-fitbit-edge",
+      "file": "products/google-fitbit-edge.html",
+      "source": "https://phonesstorekenya.com/product/google-fitbit-edge/",
+      "source_title": "Google Fitbit Edge Price in Kenya - Phones Store Kenya",
+      "source_bytes": 444445
+    },
+    {
+      "route": "/product/google-pixel-flex-dual-port-67w-usb-c-fast-charger",
+      "file": "products/google-pixel-flex-dual-port-67w-usb-c-fast-charger.html",
+      "source": "https://phonesstorekenya.com/product/google-pixel-flex-dual-port-67w-usb-c-fast-charger/",
+      "source_title": "Google Pixel Flex Dual Port 67W USB-C Fast Charger Price in Kenya - Phones Store Kenya",
+      "source_bytes": 408926
+    },
+    {
+      "route": "/product/google-pixel-watch-5",
+      "file": "products/google-pixel-watch-5.html",
+      "source": "https://phonesstorekenya.com/product/google-pixel-watch-5/",
+      "source_title": "Google Pixel Watch 5 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 425984
+    },
+    {
+      "route": "/product/google-tv-streamer-4k",
+      "file": "products/google-tv-streamer-4k.html",
+      "source": "https://phonesstorekenya.com/product/google-tv-streamer-4k/",
+      "source_title": "Google TV Streamer 4K Price in Kenya - Phones Store Kenya",
+      "source_bytes": 400513
+    },
+    {
+      "route": "/product/green-lion-mini-snap-light",
+      "file": "products/green-lion-mini-snap-light.html",
+      "source": "https://phonesstorekenya.com/product/green-lion-mini-snap-light/",
+      "source_title": "Green Lion Mini Snap Light Price in Kenya - Phones Store Kenya",
+      "source_bytes": 368874
+    },
+    {
+      "route": "/product/heavy-duty-protective-travel-case-for-nintendo-switch-2",
+      "file": "products/heavy-duty-protective-travel-case-for-nintendo-switch-2.html",
+      "source": "https://phonesstorekenya.com/product/heavy-duty-protective-travel-case-for-nintendo-switch-2/",
+      "source_title": "Heavy Duty Protective Travel Case for Nintendo Switch 2 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 456930
+    },
+    {
+      "route": "/product/honor-magic9-pro-max-5g",
+      "file": "products/honor-magic9-pro-max-5g.html",
+      "source": "https://phonesstorekenya.com/product/honor-magic9-pro-max-5g/",
+      "source_title": "Honor Magic9 Pro Max 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 459181
+    },
+    {
+      "route": "/product/honor-play20c",
+      "file": "products/honor-play20c.html",
+      "source": "https://phonesstorekenya.com/product/honor-play20c/",
+      "source_title": "Honor Play20C Price in Kenya - Phones Store Kenya",
+      "source_bytes": 395509
+    },
+    {
+      "route": "/product/huawei-watch-gt-7",
+      "file": "products/huawei-watch-gt-7.html",
+      "source": "https://phonesstorekenya.com/product/huawei-watch-gt-7/",
+      "source_title": "Huawei Watch GT 7 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 537603
+    },
+    {
+      "route": "/product/huawei-watch-gt-7-pro",
+      "file": "products/huawei-watch-gt-7-pro.html",
+      "source": "https://phonesstorekenya.com/product/huawei-watch-gt-7-pro/",
+      "source_title": "Huawei Watch GT 7 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 490027
+    },
+    {
+      "route": "/product/infinix-gt-10",
+      "file": "products/infinix-gt-10.html",
+      "source": "https://phonesstorekenya.com/product/infinix-gt-10/",
+      "source_title": "Infinix GT 10 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 387062
+    },
+    {
+      "route": "/product/infinix-gt-10-pro",
+      "file": "products/infinix-gt-10-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-gt-10-pro/",
+      "source_title": "Infinix GT 10 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 408657
+    },
+    {
+      "route": "/product/infinix-gt-10-pro-plus",
+      "file": "products/infinix-gt-10-pro-plus.html",
+      "source": "https://phonesstorekenya.com/product/infinix-gt-10-pro-plus/",
+      "source_title": "Infinix GT 10 Pro Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 400063
+    },
+    {
+      "route": "/product/infinix-gt-30-pro",
+      "file": "products/infinix-gt-30-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-gt-30-pro/",
+      "source_title": "Infinix GT 30 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 413744
+    },
+    {
+      "route": "/product/infinix-gt-50-pro",
+      "file": "products/infinix-gt-50-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-gt-50-pro/",
+      "source_title": "Infinix GT 50 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 409691
+    },
+    {
+      "route": "/product/infinix-gt-watch-5-pro-xw5gt",
+      "file": "products/infinix-gt-watch-5-pro-xw5gt.html",
+      "source": "https://phonesstorekenya.com/product/infinix-gt-watch-5-pro-xw5gt/",
+      "source_title": "Infinix GT Watch 5 Pro (XW5GT) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 427150
+    },
+    {
+      "route": "/product/infinix-hot-11-play",
+      "file": "products/infinix-hot-11-play.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-11-play/",
+      "source_title": "Infinix Hot 11 Play Price in Kenya - Phones Store Kenya",
+      "source_bytes": 449253
+    },
+    {
+      "route": "/product/infinix-hot-11s",
+      "file": "products/infinix-hot-11s.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-11s/",
+      "source_title": "Infinix Hot 11s Price in Kenya - Phones Store Kenya",
+      "source_bytes": 398697
+    },
+    {
+      "route": "/product/infinix-hot-12",
+      "file": "products/infinix-hot-12.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-12/",
+      "source_title": "Infinix Hot 12 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 396386
+    },
+    {
+      "route": "/product/infinix-hot-12-play",
+      "file": "products/infinix-hot-12-play.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-12-play/",
+      "source_title": "Infinix Hot 12 Play Price in Kenya - Phones Store Kenya",
+      "source_bytes": 446981
+    },
+    {
+      "route": "/product/infinix-hot-12i",
+      "file": "products/infinix-hot-12i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-12i/",
+      "source_title": "Infinix Hot 12i Price in Kenya - Phones Store Kenya",
+      "source_bytes": 442660
+    },
+    {
+      "route": "/product/infinix-hot-20i",
+      "file": "products/infinix-hot-20i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-20i/",
+      "source_title": "Infinix Hot 20i Price in Kenya - Phones Store Kenya",
+      "source_bytes": 453594
+    },
+    {
+      "route": "/product/infinix-hot-30",
+      "file": "products/infinix-hot-30.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-30/",
+      "source_title": "Infinix Hot 30 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 411188
+    },
+    {
+      "route": "/product/infinix-hot-30-play",
+      "file": "products/infinix-hot-30-play.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-30-play/",
+      "source_title": "Infinix Hot 30 Play Price in Kenya - Phones Store Kenya",
+      "source_bytes": 425435
+    },
+    {
+      "route": "/product/infinix-hot-30i",
+      "file": "products/infinix-hot-30i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-30i/",
+      "source_title": "Infinix Hot 30i Price in Kenya - Phones Store Kenya",
+      "source_bytes": 433710
+    },
+    {
+      "route": "/product/infinix-hot-40",
+      "file": "products/infinix-hot-40.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-40/",
+      "source_title": "Infinix Hot 40 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 408849
+    },
+    {
+      "route": "/product/infinix-hot-40-pro",
+      "file": "products/infinix-hot-40-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-40-pro/",
+      "source_title": "Infinix Hot 40 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 417818
+    },
+    {
+      "route": "/product/infinix-hot-40i",
+      "file": "products/infinix-hot-40i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-40i/",
+      "source_title": "Infinix Hot 40i Price in Kenya - Phones Store Kenya",
+      "source_bytes": 417352
+    },
+    {
+      "route": "/product/infinix-hot-50-pro-plus",
+      "file": "products/infinix-hot-50-pro-plus.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-50-pro-plus/",
+      "source_title": "Infinix Hot 50 Pro Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 484181
+    },
+    {
+      "route": "/product/infinix-hot-50i",
+      "file": "products/infinix-hot-50i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-50i/",
+      "source_title": "Infinix Hot 50i 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 425872
+    },
+    {
+      "route": "/product/infinix-hot-60-pro",
+      "file": "products/infinix-hot-60-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-60-pro/",
+      "source_title": "Infinix Hot 60 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 468206
+    },
+    {
+      "route": "/product/infinix-hot-60-pro-plus",
+      "file": "products/infinix-hot-60-pro-plus.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-60-pro-plus/",
+      "source_title": "Infinix Hot 60 Pro Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 478923
+    },
+    {
+      "route": "/product/infinix-hot-60i",
+      "file": "products/infinix-hot-60i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-60i/",
+      "source_title": "Infinix Hot 60i Price in Kenya - Phones Store Kenya",
+      "source_bytes": 501143
+    },
+    {
+      "route": "/product/infinix-hot-70-4g",
+      "file": "products/infinix-hot-70-4g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-70-4g/",
+      "source_title": "Infinix Hot 70 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 507912
+    },
+    {
+      "route": "/product/infinix-hot-70-pro-5g",
+      "file": "products/infinix-hot-70-pro-5g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-70-pro-5g/",
+      "source_title": "Infinix Hot 70 Pro 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 415194
+    },
+    {
+      "route": "/product/infinix-hot-9-play",
+      "file": "products/infinix-hot-9-play.html",
+      "source": "https://phonesstorekenya.com/product/infinix-hot-9-play/",
+      "source_title": "Infinix Hot 9 Play Price in Kenya - Phones Store Kenya",
+      "source_bytes": 375707
+    },
+    {
+      "route": "/product/infinix-note-10-pro",
+      "file": "products/infinix-note-10-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-10-pro/",
+      "source_title": "Infinix Note 10 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 410311
+    },
+    {
+      "route": "/product/infinix-note-11",
+      "file": "products/infinix-note-11.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-11/",
+      "source_title": "Infinix Note 11 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 411244
+    },
+    {
+      "route": "/product/infinix-note-11-pro",
+      "file": "products/infinix-note-11-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-11-pro/",
+      "source_title": "Infinix Note 11 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 392169
+    },
+    {
+      "route": "/product/infinix-note-12",
+      "file": "products/infinix-note-12.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-12/",
+      "source_title": "Infinix Note 12 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 406400
+    },
+    {
+      "route": "/product/infinix-note-12-g96",
+      "file": "products/infinix-note-12-g96.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-12-g96/",
+      "source_title": "Infinix Note 12 G96 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 398703
+    },
+    {
+      "route": "/product/infinix-note-12-pro",
+      "file": "products/infinix-note-12-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-12-pro/",
+      "source_title": "Infinix Note 12 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 399978
+    },
+    {
+      "route": "/product/infinix-note-12-pro-5g",
+      "file": "products/infinix-note-12-pro-5g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-12-pro-5g/",
+      "source_title": "Infinix Note 12 Pro 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 409367
+    },
+    {
+      "route": "/product/infinix-note-12-vip",
+      "file": "products/infinix-note-12-vip.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-12-vip/",
+      "source_title": "Infinix Note 12 VIP Price in Kenya - Phones Store Kenya",
+      "source_bytes": 392788
+    },
+    {
+      "route": "/product/infinix-note-12i",
+      "file": "products/infinix-note-12i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-12i/",
+      "source_title": "Infinix Note 12i Price in Kenya - Phones Store Kenya",
+      "source_bytes": 381462
+    },
+    {
+      "route": "/product/infinix-note-30",
+      "file": "products/infinix-note-30.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-30/",
+      "source_title": "Infinix Note 30 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 408592
+    },
+    {
+      "route": "/product/infinix-note-30-5g",
+      "file": "products/infinix-note-30-5g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-30-5g/",
+      "source_title": "Infinix Note 30 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 411789
+    },
+    {
+      "route": "/product/infinix-note-30-pro",
+      "file": "products/infinix-note-30-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-30-pro/",
+      "source_title": "Infinix Note 30 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 430573
+    },
+    {
+      "route": "/product/infinix-note-30-vip",
+      "file": "products/infinix-note-30-vip.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-30-vip/",
+      "source_title": "Infinix Note 30 VIP Price in Kenya - Phones Store Kenya",
+      "source_bytes": 421977
+    },
+    {
+      "route": "/product/infinix-note-30i",
+      "file": "products/infinix-note-30i.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-30i/",
+      "source_title": "Infinix Note 30i Price in Kenya - Phones Store Kenya",
+      "source_bytes": 420192
+    },
+    {
+      "route": "/product/infinix-note-40",
+      "file": "products/infinix-note-40.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-40/",
+      "source_title": "Infinix Note 40 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 419675
+    },
+    {
+      "route": "/product/infinix-note-40-pro-4g",
+      "file": "products/infinix-note-40-pro-4g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-40-pro-4g/",
+      "source_title": "Infinix Note 40 Pro 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 414481
+    },
+    {
+      "route": "/product/infinix-note-40-pro-5g",
+      "file": "products/infinix-note-40-pro-5g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-40-pro-5g/",
+      "source_title": "Infinix Note 40 Pro 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 406077
+    },
+    {
+      "route": "/product/infinix-note-40-pro-plus",
+      "file": "products/infinix-note-40-pro-plus.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-40-pro-plus/",
+      "source_title": "Infinix Note 40 Pro Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 415175
+    },
+    {
+      "route": "/product/infinix-note-60-pro",
+      "file": "products/infinix-note-60-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-60-pro/",
+      "source_title": "Infinix Note 60 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 405624
+    },
+    {
+      "route": "/product/infinix-note-edge",
+      "file": "products/infinix-note-edge.html",
+      "source": "https://phonesstorekenya.com/product/infinix-note-edge/",
+      "source_title": "Infinix Note Edge Price in Kenya - Phones Store Kenya",
+      "source_bytes": 402390
+    },
+    {
+      "route": "/product/infinix-s5-32gb-3gb",
+      "file": "products/infinix-s5-32gb-3gb.html",
+      "source": "https://phonesstorekenya.com/product/infinix-s5-32gb-3gb/",
+      "source_title": "Infinix S5 32GB 3GB Price in Kenya - Phones Store Kenya",
+      "source_bytes": 378318
+    },
+    {
+      "route": "/product/infinix-smart-20",
+      "file": "products/infinix-smart-20.html",
+      "source": "https://phonesstorekenya.com/product/infinix-smart-20/",
+      "source_title": "Infinix Smart 20 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 469198
+    },
+    {
+      "route": "/product/infinix-smart-6",
+      "file": "products/infinix-smart-6.html",
+      "source": "https://phonesstorekenya.com/product/infinix-smart-6/",
+      "source_title": "Infinix Smart 6 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 453191
+    },
+    {
+      "route": "/product/infinix-smart-6-plus",
+      "file": "products/infinix-smart-6-plus.html",
+      "source": "https://phonesstorekenya.com/product/infinix-smart-6-plus/",
+      "source_title": "Infinix Smart 6 Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 392122
+    },
+    {
+      "route": "/product/infinix-smart-7-hd",
+      "file": "products/infinix-smart-7-hd.html",
+      "source": "https://phonesstorekenya.com/product/infinix-smart-7-hd/",
+      "source_title": "Infinix Smart 7 HD Price in Kenya - Phones Store Kenya",
+      "source_bytes": 414638
+    },
+    {
+      "route": "/product/infinix-smart-7-plus",
+      "file": "products/infinix-smart-7-plus.html",
+      "source": "https://phonesstorekenya.com/product/infinix-smart-7-plus/",
+      "source_title": "Infinix Smart 7 Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 385762
+    },
+    {
+      "route": "/product/infinix-smart-8",
+      "file": "products/infinix-smart-8.html",
+      "source": "https://phonesstorekenya.com/product/infinix-smart-8/",
+      "source_title": "Infinix Smart 8 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 462699
+    },
+    {
+      "route": "/product/infinix-smart-9",
+      "file": "products/infinix-smart-9.html",
+      "source": "https://phonesstorekenya.com/product/infinix-smart-9/",
+      "source_title": "Infinix Smart 9 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 405706
+    },
+    {
+      "route": "/product/infinix-xwatch-h5-pro-xw5p",
+      "file": "products/infinix-xwatch-h5-pro-xw5p.html",
+      "source": "https://phonesstorekenya.com/product/infinix-xwatch-h5-pro-xw5p/",
+      "source_title": "Infinix XWatch H5 Pro (XW5P) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 408685
+    },
+    {
+      "route": "/product/infinix-xwatch-n4-xw4",
+      "file": "products/infinix-xwatch-n4-xw4.html",
+      "source": "https://phonesstorekenya.com/product/infinix-xwatch-n4-xw4/",
+      "source_title": "Infinix XWatch N4 (XW4) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 423459
+    },
+    {
+      "route": "/product/infinix-zero-20-4g",
+      "file": "products/infinix-zero-20-4g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-zero-20-4g/",
+      "source_title": "Infinix Zero 20 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 387479
+    },
+    {
+      "route": "/product/infinix-zero-30-5g",
+      "file": "products/infinix-zero-30-5g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-zero-30-5g/",
+      "source_title": "Infinix Zero 30 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 395811
+    },
+    {
+      "route": "/product/infinix-zero-5g",
+      "file": "products/infinix-zero-5g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-zero-5g/",
+      "source_title": "Infinix Zero 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 464584
+    },
+    {
+      "route": "/product/infinix-zero-6-pro",
+      "file": "products/infinix-zero-6-pro.html",
+      "source": "https://phonesstorekenya.com/product/infinix-zero-6-pro/",
+      "source_title": "Infinix Zero 6 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 377106
+    },
+    {
+      "route": "/product/infinix-zero-flip",
+      "file": "products/infinix-zero-flip.html",
+      "source": "https://phonesstorekenya.com/product/infinix-zero-flip/",
+      "source_title": "Infinix Zero Flip Price in Kenya - Phones Store Kenya",
+      "source_bytes": 409811
+    },
+    {
+      "route": "/product/infinix-zero-ultra-5g",
+      "file": "products/infinix-zero-ultra-5g.html",
+      "source": "https://phonesstorekenya.com/product/infinix-zero-ultra-5g/",
+      "source_title": "Infinix Zero Ultra 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 390155
+    },
+    {
+      "route": "/product/iphone-16",
+      "file": "products/iphone-16.html",
+      "source": "https://phonesstorekenya.com/product/iphone-16/",
+      "source_title": "iPhone 16 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 569873
+    },
+    {
+      "route": "/product/iphone-16-plus",
+      "file": "products/iphone-16-plus.html",
+      "source": "https://phonesstorekenya.com/product/iphone-16-plus/",
+      "source_title": "iPhone 16 Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 558705
+    },
+    {
+      "route": "/product/iphone-16-pro",
+      "file": "products/iphone-16-pro.html",
+      "source": "https://phonesstorekenya.com/product/iphone-16-pro/",
+      "source_title": "iPhone 16 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 564988
+    },
+    {
+      "route": "/product/iphone-16-pro-max",
+      "file": "products/iphone-16-pro-max.html",
+      "source": "https://phonesstorekenya.com/product/iphone-16-pro-max/",
+      "source_title": "iPhone 16 Pro Max Price in Kenya - Phones Store Kenya",
+      "source_bytes": 576716
+    },
+    {
+      "route": "/product/iphone-17",
+      "file": "products/iphone-17.html",
+      "source": "https://phonesstorekenya.com/product/iphone-17/",
+      "source_title": "iPhone 17 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 553870
+    },
+    {
+      "route": "/product/iphone-17-pro",
+      "file": "products/iphone-17-pro.html",
+      "source": "https://phonesstorekenya.com/product/iphone-17-pro/",
+      "source_title": "iPhone 17 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 710769
+    },
+    {
+      "route": "/product/iphone-17-pro-max",
+      "file": "products/iphone-17-pro-max.html",
+      "source": "https://phonesstorekenya.com/product/iphone-17-pro-max/",
+      "source_title": "iPhone 17 Pro Max Price in Kenya - 256GB to 2TB, Nairobi",
+      "source_bytes": 742625
+    },
+    {
+      "route": "/product/iphone-17e",
+      "file": "products/iphone-17e.html",
+      "source": "https://phonesstorekenya.com/product/iphone-17e/",
+      "source_title": "iPhone 17e Price in Kenya - Phones Store Kenya",
+      "source_bytes": 509300
+    },
+    {
+      "route": "/product/iphone-18-pro",
+      "file": "products/iphone-18-pro.html",
+      "source": "https://phonesstorekenya.com/product/iphone-18-pro/",
+      "source_title": "iPhone 18 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 679645
+    },
+    {
+      "route": "/product/iphone-18-pro-max",
+      "file": "products/iphone-18-pro-max.html",
+      "source": "https://phonesstorekenya.com/product/iphone-18-pro-max/",
+      "source_title": "iPhone 18 Pro Max Price in Kenya 2026 – Buy Now | Phones Store Kenya",
+      "source_bytes": 792547
+    },
+    {
+      "route": "/product/iphone-air",
+      "file": "products/iphone-air.html",
+      "source": "https://phonesstorekenya.com/product/iphone-air/",
+      "source_title": "iPhone Air Price in Kenya - Phones Store Kenya",
+      "source_bytes": 535211
+    },
+    {
+      "route": "/product/iphone-duo-price-in-kenya",
+      "file": "products/iphone-duo-price-in-kenya.html",
+      "source": "https://phonesstorekenya.com/product/iphone-duo-price-in-kenya/",
+      "source_title": "iPhone Duo Price in Kenya - Phones Store Kenya",
+      "source_bytes": 547731
+    },
+    {
+      "route": "/product/itel-power-80",
+      "file": "products/itel-power-80.html",
+      "source": "https://phonesstorekenya.com/product/itel-power-80/",
+      "source_title": "Itel Power 80 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 421227
+    },
+    {
+      "route": "/product/jaffzora-game-console-travel-backpack",
+      "file": "products/jaffzora-game-console-travel-backpack.html",
+      "source": "https://phonesstorekenya.com/product/jaffzora-game-console-travel-backpack/",
+      "source_title": "Jaffzora Game Console Travel Backpack Price in Kenya - Phones Store Kenya",
+      "source_bytes": 453844
+    },
+    {
+      "route": "/product/jbl-tour-pro-2",
+      "file": "products/jbl-tour-pro-2.html",
+      "source": "https://phonesstorekenya.com/product/jbl-tour-pro-2/",
+      "source_title": "JBL Tour Pro 2 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 424725
+    },
+    {
+      "route": "/product/jbq-roadpwr",
+      "file": "products/jbq-roadpwr.html",
+      "source": "https://phonesstorekenya.com/product/jbq-roadpwr/",
+      "source_title": "JBQ RoadPwr LED Display Car Power Inverter Price in Kenya - Phones Store Kenya",
+      "source_bytes": 420574
+    },
+    {
+      "route": "/product/jbq-twinvolt-7-in-1",
+      "file": "products/jbq-twinvolt-7-in-1.html",
+      "source": "https://phonesstorekenya.com/product/jbq-twinvolt-7-in-1/",
+      "source_title": "JBQ TwinVolt 7-in-1 Smart Car Power Inverter Price in Kenya - Phones Store Kenya",
+      "source_bytes": 416455
+    },
+    {
+      "route": "/product/lodrid-game-console-carrying-case-for-xbox-series-x",
+      "file": "products/lodrid-game-console-carrying-case-for-xbox-series-x.html",
+      "source": "https://phonesstorekenya.com/product/lodrid-game-console-carrying-case-for-xbox-series-x/",
+      "source_title": "LoDrid Game Console Carrying Case for Xbox Series X Price in Kenya - Phones Store Kenya",
+      "source_bytes": 414510
+    },
+    {
+      "route": "/product/logitech-g923-trueforce-racing-wheel-and-pedals",
+      "file": "products/logitech-g923-trueforce-racing-wheel-and-pedals.html",
+      "source": "https://phonesstorekenya.com/product/logitech-g923-trueforce-racing-wheel-and-pedals/",
+      "source_title": "Logitech G923 TRUEFORCE Racing Wheel and Pedals Price in Kenya - Phones Store Kenya",
+      "source_bytes": 318996
+    },
+    {
+      "route": "/product/maggo-10000mah-power-bank",
+      "file": "products/maggo-10000mah-power-bank.html",
+      "source": "https://phonesstorekenya.com/product/maggo-10000mah-power-bank/",
+      "source_title": "Anker MagGo 10000mAh Power Bank Ultra-Fast 15W Power Bank with LED Display Price in Kenya - Phones Store Kenya",
+      "source_bytes": 421974
+    },
+    {
+      "route": "/product/motorola-moto-g87-5g",
+      "file": "products/motorola-moto-g87-5g.html",
+      "source": "https://phonesstorekenya.com/product/motorola-moto-g87-5g/",
+      "source_title": "Motorola Moto G87 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 427225
+    },
+    {
+      "route": "/product/motorola-razr-fold-5g-fifa-world-cup-26-edition",
+      "file": "products/motorola-razr-fold-5g-fifa-world-cup-26-edition.html",
+      "source": "https://phonesstorekenya.com/product/motorola-razr-fold-5g-fifa-world-cup-26-edition/",
+      "source_title": "Motorola Razr Fold 5G FIFA World Cup 26 Edition Price in Kenya - Phones Store Kenya",
+      "source_bytes": 472969
+    },
+    {
+      "route": "/product/nintendo-switch-2-dock-set",
+      "file": "products/nintendo-switch-2-dock-set.html",
+      "source": "https://phonesstorekenya.com/product/nintendo-switch-2-dock-set/",
+      "source_title": "Nintendo Switch 2 Dock Set Price in Kenya - Phones Store Kenya",
+      "source_bytes": 464838
+    },
+    {
+      "route": "/product/nothing-cmf-phone-1",
+      "file": "products/nothing-cmf-phone-1.html",
+      "source": "https://phonesstorekenya.com/product/nothing-cmf-phone-1/",
+      "source_title": "Nothing CMF Phone 1 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 471277
+    },
+    {
+      "route": "/product/nothing-cmf-watch-pro-2",
+      "file": "products/nothing-cmf-watch-pro-2.html",
+      "source": "https://phonesstorekenya.com/product/nothing-cmf-watch-pro-2/",
+      "source_title": "Nothing CMF Watch Pro 2 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 417672
+    },
+    {
+      "route": "/product/nothing-phone-1",
+      "file": "products/nothing-phone-1.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-1/",
+      "source_title": "Nothing Phone 1 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 392963
+    },
+    {
+      "route": "/product/nothing-phone-2",
+      "file": "products/nothing-phone-2.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-2/",
+      "source_title": "Nothing Phone 2 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 460498
+    },
+    {
+      "route": "/product/nothing-phone-2-pro",
+      "file": "products/nothing-phone-2-pro.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-2-pro/",
+      "source_title": "Nothing Phone 2 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 475144
+    },
+    {
+      "route": "/product/nothing-phone-2a-plus",
+      "file": "products/nothing-phone-2a-plus.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-2a-plus/",
+      "source_title": "Nothing Phone 2a Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 399244
+    },
+    {
+      "route": "/product/nothing-phone-3",
+      "file": "products/nothing-phone-3.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-3/",
+      "source_title": "Nothing Phone 3 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 474732
+    },
+    {
+      "route": "/product/nothing-phone-3a",
+      "file": "products/nothing-phone-3a.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-3a/",
+      "source_title": "Nothing Phone 3a Price in Kenya - Phones Store Kenya",
+      "source_bytes": 457361
+    },
+    {
+      "route": "/product/nothing-phone-3a-lite",
+      "file": "products/nothing-phone-3a-lite.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-3a-lite/",
+      "source_title": "Nothing Phone 3A Lite Price in Kenya - Phones Store Kenya",
+      "source_bytes": 462147
+    },
+    {
+      "route": "/product/nothing-phone-3a-pro",
+      "file": "products/nothing-phone-3a-pro.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-3a-pro/",
+      "source_title": "Nothing Phone 3a Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 405839
+    },
+    {
+      "route": "/product/nothing-phone-4-a-pro",
+      "file": "products/nothing-phone-4-a-pro.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-4-a-pro/",
+      "source_title": "Nothing Phone 4 (a) Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 418700
+    },
+    {
+      "route": "/product/nothing-phone-4a",
+      "file": "products/nothing-phone-4a.html",
+      "source": "https://phonesstorekenya.com/product/nothing-phone-4a/",
+      "source_title": "Nothing Phone (4a) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 495047
+    },
+    {
+      "route": "/product/oled-screen-protector",
+      "file": "products/oled-screen-protector.html",
+      "source": "https://phonesstorekenya.com/product/oled-screen-protector/",
+      "source_title": "Tempered Glass OLED Screen Protector for Nintendo Switch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 490470
+    },
+    {
+      "route": "/product/oneplus-16-5g",
+      "file": "products/oneplus-16-5g.html",
+      "source": "https://phonesstorekenya.com/product/oneplus-16-5g/",
+      "source_title": "OnePlus 16 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 447262
+    },
+    {
+      "route": "/product/oraimo-powernova-qf1-27000mah",
+      "file": "products/oraimo-powernova-qf1-27000mah.html",
+      "source": "https://phonesstorekenya.com/product/oraimo-powernova-qf1-27000mah/",
+      "source_title": "Oraimo PowerNova QF1 27000mAh 22.5W Fast Charging Power Bank Price in Kenya - Phones Store Kenya",
+      "source_bytes": 427797
+    },
+    {
+      "route": "/product/oraimo-watch-6-lite-smart-watch",
+      "file": "products/oraimo-watch-6-lite-smart-watch.html",
+      "source": "https://phonesstorekenya.com/product/oraimo-watch-6-lite-smart-watch/",
+      "source_title": "Oraimo Watch 6 Lite Smart Watch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 393951
+    },
+    {
+      "route": "/product/oraimo-watch-muse-smart-watch",
+      "file": "products/oraimo-watch-muse-smart-watch.html",
+      "source": "https://phonesstorekenya.com/product/oraimo-watch-muse-smart-watch/",
+      "source_title": "Oraimo Watch Muse Smart Watch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 409680
+    },
+    {
+      "route": "/product/porodo-4g-lte-wi-fi-6",
+      "file": "products/porodo-4g-lte-wi-fi-6.html",
+      "source": "https://phonesstorekenya.com/product/porodo-4g-lte-wi-fi-6/",
+      "source_title": "Porodo 4G LTE Wi-Fi 6 Pocket Router with 10000mAh Power Bank - Black Price in Kenya - Phones Store Kenya",
+      "source_bytes": 410885
+    },
+    {
+      "route": "/product/porodo-fitpulse-pro-smart-watch",
+      "file": "products/porodo-fitpulse-pro-smart-watch.html",
+      "source": "https://phonesstorekenya.com/product/porodo-fitpulse-pro-smart-watch/",
+      "source_title": "Porodo FitPulse Pro Smart Watch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 401206
+    },
+    {
+      "route": "/product/porodo-kids-4g-smartwatch",
+      "file": "products/porodo-kids-4g-smartwatch.html",
+      "source": "https://phonesstorekenya.com/product/porodo-kids-4g-smartwatch/",
+      "source_title": "Porodo Kids 4G Smartwatch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 416383
+    },
+    {
+      "route": "/product/porodo-magnifico-3-smart-watch",
+      "file": "products/porodo-magnifico-3-smart-watch.html",
+      "source": "https://phonesstorekenya.com/product/porodo-magnifico-3-smart-watch/",
+      "source_title": "Porodo Magnifico 3 Smart Watch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 400183
+    },
+    {
+      "route": "/product/porodo-salud-smart-watch",
+      "file": "products/porodo-salud-smart-watch.html",
+      "source": "https://phonesstorekenya.com/product/porodo-salud-smart-watch/",
+      "source_title": "Porodo Salud Smart Watch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 413059
+    },
+    {
+      "route": "/product/porodo-soundtec-viora-wireless-enc-neckband",
+      "file": "products/porodo-soundtec-viora-wireless-enc-neckband.html",
+      "source": "https://phonesstorekenya.com/product/porodo-soundtec-viora-wireless-enc-neckband/",
+      "source_title": "Porodo Soundtec Viora Wireless ENC Neckband Price in Kenya - Phones Store Kenya",
+      "source_bytes": 420078
+    },
+    {
+      "route": "/product/porodo-trackfit-evo-smart-health-tracking-band",
+      "file": "products/porodo-trackfit-evo-smart-health-tracking-band.html",
+      "source": "https://phonesstorekenya.com/product/porodo-trackfit-evo-smart-health-tracking-band/",
+      "source_title": "Porodo TrackFit Evo Smart Health Tracking Band Price in Kenya - Phones Store Kenya",
+      "source_bytes": 416814
+    },
+    {
+      "route": "/product/porodo-trackfit-neo-smart-health-tracking-band",
+      "file": "products/porodo-trackfit-neo-smart-health-tracking-band.html",
+      "source": "https://phonesstorekenya.com/product/porodo-trackfit-neo-smart-health-tracking-band/",
+      "source_title": "Porodo TrackFit Neo Smart Health Tracking Band Price in Kenya - Phones Store Kenya",
+      "source_bytes": 432049
+    },
+    {
+      "route": "/product/porodo-trackfit-pro-smart-bracelet-fitness-tracker-with-display-app",
+      "file": "products/porodo-trackfit-pro-smart-bracelet-fitness-tracker-with-display-app.html",
+      "source": "https://phonesstorekenya.com/product/porodo-trackfit-pro-smart-bracelet-fitness-tracker-with-display-app/",
+      "source_title": "Porodo Trackfit Pro Smart Bracelet Fitness Tracker with Display App Price in Kenya - Phones Store Kenya",
+      "source_bytes": 432855
+    },
+    {
+      "route": "/product/porodo-trackfit-with-extra-strap",
+      "file": "products/porodo-trackfit-with-extra-strap.html",
+      "source": "https://phonesstorekenya.com/product/porodo-trackfit-with-extra-strap/",
+      "source_title": "Porodo TrackFit with Extra Strap Price in Kenya - Phones Store Kenya",
+      "source_bytes": 435894
+    },
+    {
+      "route": "/product/porodo-voyager-sport-smartwatch",
+      "file": "products/porodo-voyager-sport-smartwatch.html",
+      "source": "https://phonesstorekenya.com/product/porodo-voyager-sport-smartwatch/",
+      "source_title": "Porodo Voyager Sport Smartwatch Price in Kenya - Phones Store Kenya",
+      "source_bytes": 421472
+    },
+    {
+      "route": "/product/realme-p4-power-5g",
+      "file": "products/realme-p4-power-5g.html",
+      "source": "https://phonesstorekenya.com/product/realme-p4-power-5g/",
+      "source_title": "Realme P4 Power 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 432227
+    },
+    {
+      "route": "/product/samsung-60w-power-adapter-ep-t6010",
+      "file": "products/samsung-60w-power-adapter-ep-t6010.html",
+      "source": "https://phonesstorekenya.com/product/samsung-60w-power-adapter-ep-t6010/",
+      "source_title": "Samsung 60W Power Adapter (EP-T6010 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 399884
+    },
+    {
+      "route": "/product/samsung-galaxy-a07s",
+      "file": "products/samsung-galaxy-a07s.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-a07s/",
+      "source_title": "Samsung Galaxy A07s Price in Kenya - Phones Store Kenya",
+      "source_bytes": 479422
+    },
+    {
+      "route": "/product/samsung-galaxy-a17-4g",
+      "file": "products/samsung-galaxy-a17-4g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-a17-4g/",
+      "source_title": "Samsung Galaxy A17 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 482473
+    },
+    {
+      "route": "/product/samsung-galaxy-a18",
+      "file": "products/samsung-galaxy-a18.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-a18/",
+      "source_title": "Samsung Galaxy A18 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 449775
+    },
+    {
+      "route": "/product/samsung-galaxy-a27",
+      "file": "products/samsung-galaxy-a27.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-a27/",
+      "source_title": "Samsung Galaxy A27 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 494917
+    },
+    {
+      "route": "/product/samsung-galaxy-a37-5g",
+      "file": "products/samsung-galaxy-a37-5g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-a37-5g/",
+      "source_title": "Samsung Galaxy A37 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 482178
+    },
+    {
+      "route": "/product/samsung-galaxy-f06-5g",
+      "file": "products/samsung-galaxy-f06-5g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-f06-5g/",
+      "source_title": "Samsung Galaxy F06 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 475139
+    },
+    {
+      "route": "/product/samsung-galaxy-f17-2",
+      "file": "products/samsung-galaxy-f17-2.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-f17-2/",
+      "source_title": "Samsung Galaxy F17 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 443657
+    },
+    {
+      "route": "/product/samsung-galaxy-f36",
+      "file": "products/samsung-galaxy-f36.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-f36/",
+      "source_title": "Samsung Galaxy F36 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 414309
+    },
+    {
+      "route": "/product/samsung-galaxy-f70e",
+      "file": "products/samsung-galaxy-f70e.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-f70e/",
+      "source_title": "Samsung Galaxy F70e Price in Kenya - Phones Store Kenya",
+      "source_bytes": 427154
+    },
+    {
+      "route": "/product/samsung-galaxy-m06-5g",
+      "file": "products/samsung-galaxy-m06-5g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-m06-5g/",
+      "source_title": "Samsung Galaxy M06 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 426256
+    },
+    {
+      "route": "/product/samsung-galaxy-m17e-5g",
+      "file": "products/samsung-galaxy-m17e-5g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-m17e-5g/",
+      "source_title": "Samsung Galaxy M17e 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 479796
+    },
+    {
+      "route": "/product/samsung-galaxy-m36-5g",
+      "file": "products/samsung-galaxy-m36-5g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-m36-5g/",
+      "source_title": "Samsung Galaxy M36 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 486442
+    },
+    {
+      "route": "/product/samsung-galaxy-s25-ultra-clear-case",
+      "file": "products/samsung-galaxy-s25-ultra-clear-case.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-s25-ultra-clear-case/",
+      "source_title": "Samsung Galaxy S25 Ultra Clear Case Price in Kenya - Phones Store Kenya",
+      "source_bytes": 396104
+    },
+    {
+      "route": "/product/samsung-galaxy-s26",
+      "file": "products/samsung-galaxy-s26.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-s26/",
+      "source_title": "Samsung Galaxy S26 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 459615
+    },
+    {
+      "route": "/product/samsung-galaxy-s26-fe",
+      "file": "products/samsung-galaxy-s26-fe.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-s26-fe/",
+      "source_title": "Samsung Galaxy S26 FE Price in Kenya - Phones Store Kenya",
+      "source_bytes": 462833
+    },
+    {
+      "route": "/product/samsung-galaxy-s26-plus-5g",
+      "file": "products/samsung-galaxy-s26-plus-5g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-s26-plus-5g/",
+      "source_title": "Samsung Galaxy S26 Plus 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 468297
+    },
+    {
+      "route": "/product/samsung-galaxy-s26-ultra-5g",
+      "file": "products/samsung-galaxy-s26-ultra-5g.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-s26-ultra-5g/",
+      "source_title": "Samsung Galaxy S26 Ultra 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 523981
+    },
+    {
+      "route": "/product/samsung-galaxy-s26-ultra-clear-case",
+      "file": "products/samsung-galaxy-s26-ultra-clear-case.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-s26-ultra-clear-case/",
+      "source_title": "Samsung Galaxy S26 Ultra Clear Case Price in Kenya - Phones Store Kenya",
+      "source_bytes": 383524
+    },
+    {
+      "route": "/product/samsung-galaxy-z-flip-8",
+      "file": "products/samsung-galaxy-z-flip-8.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-z-flip-8/",
+      "source_title": "Samsung Galaxy Z Flip 8 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 519907
+    },
+    {
+      "route": "/product/samsung-galaxy-z-fold-8",
+      "file": "products/samsung-galaxy-z-fold-8.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-z-fold-8/",
+      "source_title": "Samsung Galaxy Z Fold 8 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 513469
+    },
+    {
+      "route": "/product/samsung-galaxy-z-fold-8-ultra",
+      "file": "products/samsung-galaxy-z-fold-8-ultra.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-z-fold-8-ultra/",
+      "source_title": "Samsung Galaxy Z Fold 8 Ultra Price in Kenya - Phones Store Kenya",
+      "source_bytes": 487537
+    },
+    {
+      "route": "/product/samsung-galaxy-z-trifold",
+      "file": "products/samsung-galaxy-z-trifold.html",
+      "source": "https://phonesstorekenya.com/product/samsung-galaxy-z-trifold/",
+      "source_title": "Samsung Galaxy Z TriFold Price in Kenya - Phones Store Kenya",
+      "source_bytes": 533414
+    },
+    {
+      "route": "/product/samsung-s26-ultra-standing-grip-case",
+      "file": "products/samsung-s26-ultra-standing-grip-case.html",
+      "source": "https://phonesstorekenya.com/product/samsung-s26-ultra-standing-grip-case/",
+      "source_title": "Samsung S26 Ultra Standing Grip Case Price in Kenya - Phones Store Kenya",
+      "source_bytes": 433364
+    },
+    {
+      "route": "/product/sandisk-microsd-express-card-for-nintendo-switch-2-256gb",
+      "file": "products/sandisk-microsd-express-card-for-nintendo-switch-2-256gb.html",
+      "source": "https://phonesstorekenya.com/product/sandisk-microsd-express-card-for-nintendo-switch-2-256gb/",
+      "source_title": "SanDisk microSD Express Card for Nintendo Switch 2 - 256GB Price in Kenya - Phones Store Kenya",
+      "source_bytes": 468050
+    },
+    {
+      "route": "/product/switch-lite-silicone-cover",
+      "file": "products/switch-lite-silicone-cover.html",
+      "source": "https://phonesstorekenya.com/product/switch-lite-silicone-cover/",
+      "source_title": "Switch Lite Silicone Cover for Nintendo Price in Kenya - Phones Store Kenya",
+      "source_bytes": 442328
+    },
+    {
+      "route": "/product/tecno-camon-30s",
+      "file": "products/tecno-camon-30s.html",
+      "source": "https://phonesstorekenya.com/product/tecno-camon-30s/",
+      "source_title": "Tecno Camon 30S Price in Kenya - Phones Store Kenya",
+      "source_bytes": 403278
+    },
+    {
+      "route": "/product/tecno-camon-40-4g",
+      "file": "products/tecno-camon-40-4g.html",
+      "source": "https://phonesstorekenya.com/product/tecno-camon-40-4g/",
+      "source_title": "Tecno Camon 40 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 464439
+    },
+    {
+      "route": "/product/tecno-camon-40-premier-5g",
+      "file": "products/tecno-camon-40-premier-5g.html",
+      "source": "https://phonesstorekenya.com/product/tecno-camon-40-premier-5g/",
+      "source_title": "Tecno Camon 40 Premier 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 391916
+    },
+    {
+      "route": "/product/tecno-camon-40-pro-4g",
+      "file": "products/tecno-camon-40-pro-4g.html",
+      "source": "https://phonesstorekenya.com/product/tecno-camon-40-pro-4g/",
+      "source_title": "Tecno Camon 40 Pro 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 401008
+    },
+    {
+      "route": "/product/tecno-camon-50-4g",
+      "file": "products/tecno-camon-50-4g.html",
+      "source": "https://phonesstorekenya.com/product/tecno-camon-50-4g/",
+      "source_title": "Tecno Camon 50 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 420022
+    },
+    {
+      "route": "/product/tecno-camon-50-pro-4g",
+      "file": "products/tecno-camon-50-pro-4g.html",
+      "source": "https://phonesstorekenya.com/product/tecno-camon-50-pro-4g/",
+      "source_title": "Tecno Camon 50 Pro 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 433346
+    },
+    {
+      "route": "/product/tecno-camon-50-ultra",
+      "file": "products/tecno-camon-50-ultra.html",
+      "source": "https://phonesstorekenya.com/product/tecno-camon-50-ultra/",
+      "source_title": "Tecno Camon 50 Ultra Price in Kenya - Phones Store Kenya",
+      "source_bytes": 412746
+    },
+    {
+      "route": "/product/tecno-pop-10",
+      "file": "products/tecno-pop-10.html",
+      "source": "https://phonesstorekenya.com/product/tecno-pop-10/",
+      "source_title": "Tecno Pop 10 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 381234
+    },
+    {
+      "route": "/product/tecno-pop-10-pro",
+      "file": "products/tecno-pop-10-pro.html",
+      "source": "https://phonesstorekenya.com/product/tecno-pop-10-pro/",
+      "source_title": "Tecno Pop 10 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 378461
+    },
+    {
+      "route": "/product/tecno-pop-20c",
+      "file": "products/tecno-pop-20c.html",
+      "source": "https://phonesstorekenya.com/product/tecno-pop-20c/",
+      "source_title": "Tecno Pop 20C Price in Kenya - Phones Store Kenya",
+      "source_bytes": 375191
+    },
+    {
+      "route": "/product/tecno-pova-curve-2-5g",
+      "file": "products/tecno-pova-curve-2-5g.html",
+      "source": "https://phonesstorekenya.com/product/tecno-pova-curve-2-5g/",
+      "source_title": "Tecno Pova Curve 2 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 431508
+    },
+    {
+      "route": "/product/tecno-spark-30",
+      "file": "products/tecno-spark-30.html",
+      "source": "https://phonesstorekenya.com/product/tecno-spark-30/",
+      "source_title": "Tecno Spark 30 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 463834
+    },
+    {
+      "route": "/product/tecno-spark-40",
+      "file": "products/tecno-spark-40.html",
+      "source": "https://phonesstorekenya.com/product/tecno-spark-40/",
+      "source_title": "Tecno Spark 40 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 468185
+    },
+    {
+      "route": "/product/tecno-spark-40-pro-plus",
+      "file": "products/tecno-spark-40-pro-plus.html",
+      "source": "https://phonesstorekenya.com/product/tecno-spark-40-pro-plus/",
+      "source_title": "Tecno Spark 40 Pro Plus Price in Kenya - Phones Store Kenya",
+      "source_bytes": 473998
+    },
+    {
+      "route": "/product/tecno-spark-50-pro-4g",
+      "file": "products/tecno-spark-50-pro-4g.html",
+      "source": "https://phonesstorekenya.com/product/tecno-spark-50-pro-4g/",
+      "source_title": "Tecno Spark 50 Pro 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 489293
+    },
+    {
+      "route": "/product/tecno-t101",
+      "file": "products/tecno-t101.html",
+      "source": "https://phonesstorekenya.com/product/tecno-t101/",
+      "source_title": "Tecno T101 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 398332
+    },
+    {
+      "route": "/product/tecno-t302",
+      "file": "products/tecno-t302.html",
+      "source": "https://phonesstorekenya.com/product/tecno-t302/",
+      "source_title": "Tecno T302 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 394820
+    },
+    {
+      "route": "/product/tecno-t315",
+      "file": "products/tecno-t315.html",
+      "source": "https://phonesstorekenya.com/product/tecno-t315/",
+      "source_title": "Tecno T315 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 389779
+    },
+    {
+      "route": "/product/tecno-t353",
+      "file": "products/tecno-t353.html",
+      "source": "https://phonesstorekenya.com/product/tecno-t353/",
+      "source_title": "Tecno T353 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 397673
+    },
+    {
+      "route": "/product/tecno-t528",
+      "file": "products/tecno-t528.html",
+      "source": "https://phonesstorekenya.com/product/tecno-t528/",
+      "source_title": "Tecno T528 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 401459
+    },
+    {
+      "route": "/product/tempered-glass-screen-protector-for-nintendo-switch-2",
+      "file": "products/tempered-glass-screen-protector-for-nintendo-switch-2.html",
+      "source": "https://phonesstorekenya.com/product/tempered-glass-screen-protector-for-nintendo-switch-2/",
+      "source_title": "Tempered Glass Screen Protector for Nintendo Switch 2 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 479553
+    },
+    {
+      "route": "/product/vivo-x300-pro",
+      "file": "products/vivo-x300-pro.html",
+      "source": "https://phonesstorekenya.com/product/vivo-x300-pro/",
+      "source_title": "Vivo X300 Pro Price in Kenya - Phones Store Kenya",
+      "source_bytes": 398313
+    },
+    {
+      "route": "/product/vivo-y05e-4g",
+      "file": "products/vivo-y05e-4g.html",
+      "source": "https://phonesstorekenya.com/product/vivo-y05e-4g/",
+      "source_title": "Vivo Y05e 4G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 386228
+    },
+    {
+      "route": "/product/xbox-play-charge-kit-rechargeable-battery-usb-c-cable",
+      "file": "products/xbox-play-charge-kit-rechargeable-battery-usb-c-cable.html",
+      "source": "https://phonesstorekenya.com/product/xbox-play-charge-kit-rechargeable-battery-usb-c-cable/",
+      "source_title": "Xbox Play &amp; Charge Kit (Rechargeable Battery + USB-C Cable) Price in Kenya - Phones Store Kenya",
+      "source_bytes": 454734
+    },
+    {
+      "route": "/product/xbox-wireless-adapter-for-windows-10",
+      "file": "products/xbox-wireless-adapter-for-windows-10.html",
+      "source": "https://phonesstorekenya.com/product/xbox-wireless-adapter-for-windows-10/",
+      "source_title": "Xbox Wireless Adapter for Windows 10 Price in Kenya - Phones Store Kenya",
+      "source_bytes": 462069
+    },
+    {
+      "route": "/product/xbox-wireless-headset",
+      "file": "products/xbox-wireless-headset.html",
+      "source": "https://phonesstorekenya.com/product/xbox-wireless-headset/",
+      "source_title": "Xbox Wireless Headset Price in Kenya - Phones Store Kenya",
+      "source_bytes": 359016
+    },
+    {
+      "route": "/product/xiaomi-18-fold-5g",
+      "file": "products/xiaomi-18-fold-5g.html",
+      "source": "https://phonesstorekenya.com/product/xiaomi-18-fold-5g/",
+      "source_title": "Xiaomi 18 Fold 5G Price in Kenya - Phones Store Kenya",
+      "source_bytes": 471922
+    }
+  ],
+  "failures": [],
+  "unique_css_payloads": 369,
+  "unique_js_payloads": 2088
+}

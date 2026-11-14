@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"DualSense Wireless Controller - Ghost of Y\u014dtei Gold Limited Edition","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_c9_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"130\" aria-posinset=\"130\" aria-label=\"Message 130 of 130\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">DualSense Wireless Controller - Ghost of Y\u014dtei Gold Limited Edition Price in Kenya, Full Specifications and Review","currency":"KES","tags":[],"images":[],"variants":{"78180":{"variantID":"78180","title":"DualSense Wireless Controller - Ghost of Y\u014dtei Gold Limited Edition","status":null,"price":1400000,"imageID":"78660","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/DualSense-Wireless-Controller-Ghost-of-Yotei-Gold-Limited-Edition-Price-in-Kenya.png"}},"productID":"78180","productUrl":"https:\/\/phonesstorekenya.com\/product\/controller-ghost-of-yotei\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Google Fitbit Edge","status":null,"description":"<div>\r\n<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_do_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"34\" aria-posinset=\"34\" aria-label=\"Message 34 of 34\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">Google Fitbit Edge Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Google Fitbit Edge price","currency":"KES","tags":[],"images":[],"variants":{"78962":{"variantID":"78962","title":"Google Fitbit Edge","status":null,"price":3400000,"imageID":"78967","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Google-Fitbit-Edge-Price-in-Kenya.png"}},"productID":"78962","productUrl":"https:\/\/phonesstorekenya.com\/product\/google-fitbit-edge\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

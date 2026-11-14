@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Samsung Galaxy M06 5G","status":null,"description":"<div class=\"flex-1 flex flex-col px-4 max-w-3xl mx-auto w-full pt-1\">\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_e4_\" aria-busy=\"false\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\" data-rocksteady-sizer=\"\">\r\n<div data-rs-index=\"309\" data-index=\"309\" data-last-message=\"true\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"310\" aria-posinset=\"310\" aria-label=\"Message 310 of 310\">\r\n<div data-test-render-count=\"1\">\r\n<div class=\"group","currency":"KES","tags":[],"images":[],"variants":{"73294":{"variantID":"73294","title":"Samsung Galaxy M06 5G","status":null,"price":1700000,"imageID":"73296","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/07\/Samsung-Galaxy-M06-5G.png"}},"productID":"73294","productUrl":"https:\/\/phonesstorekenya.com\/product\/samsung-galaxy-m06-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

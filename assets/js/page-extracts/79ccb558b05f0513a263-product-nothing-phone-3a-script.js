@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Nothing Phone 3a","status":null,"description":"<h2>Nothing Phone 3a In Kenya<\/h2>\r\nNothing Phone 3a Android Smartphone price in Kenya starts at Kshs 47,000. It was launched in March 2025. The phone runs on the Qualcomm SM7635 Snapdragon","currency":"KES","tags":[],"images":[],"variants":{"55931":{"variantID":"55931","title":"Nothing Phone 3a","status":null,"price":4700000,"imageID":"56328","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/02\/Nothing-Phone-3a-a.jpg"},"63534":{"variantID":"63534","title":"Nothing Phone 3a - 12GB\/256GB","status":"outOfStock","price":4700000,"oldPrice":5300000,"imageID":"56328","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/02\/Nothing-Phone-3a-a.jpg","customFields":{"attribute_pa_internal-storage":"12gb-256gb"}}},"productID":"55931","productUrl":"https:\/\/phonesstorekenya.com\/product\/nothing-phone-3a\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

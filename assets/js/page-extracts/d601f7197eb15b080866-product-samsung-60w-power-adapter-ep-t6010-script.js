@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Samsung 60W Power Adapter (EP-T6010","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_22l_\">\r\n<div>\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"248\" aria-posinset=\"248\" aria-label=\"Message 248 of 248\">\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">Samsung 60W Power Adapter (EP-T6010) Price in Kenya<\/h2>\r\n<p dir=\"ltr\">The Samsung 60W Power Adapter (EP-T6010) price in Kenya","currency":"KES","tags":[],"images":[],"variants":{"76756":{"variantID":"76756","title":"Samsung 60W Power Adapter (EP-T6010","status":null,"price":550000,"imageID":"76865","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/09\/Samsung-60W-Power-Adapter-EP-T6010-Price-in-Kenya-4.png"}},"productID":"76756","productUrl":"https:\/\/phonesstorekenya.com\/product\/samsung-60w-power-adapter-ep-t6010\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

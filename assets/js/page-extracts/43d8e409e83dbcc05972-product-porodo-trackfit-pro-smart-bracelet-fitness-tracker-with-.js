@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Porodo Trackfit Pro Smart Bracelet Fitness Tracker with Display App","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_1ek_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"458\" aria-posinset=\"458\" aria-label=\"Message 458 of 458\">\r\n<h2 dir=\"ltr\">Porodo TrackFit Pro Smart Bracelet Fitness Tracker Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Porodo","currency":"KES","tags":[],"images":[],"variants":{"74957":{"variantID":"74957","title":"Porodo Trackfit Pro Smart Bracelet Fitness Tracker with Display App","status":null,"price":800000,"imageID":"74960","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/08\/Porodo-Trackfit-Pro-Smart-Bracelet-Fitness-Tracker-with-Display-App-Black.png"}},"productID":"74957","productUrl":"https:\/\/phonesstorekenya.com\/product\/porodo-trackfit-pro-smart-bracelet-fitness-tracker-with-display-app\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

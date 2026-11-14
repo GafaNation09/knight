@@ -1,0 +1,13 @@
+
+.sp-bar { background: #0787ea; padding: 40px 24px; font-family: inherit; }
+.sp-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; max-width: 960px; margin: 0 auto; }
+.sp-item { text-align: center; padding: 16px 12px; border-right: 1px solid rgba(255,255,255,0.2); }
+.sp-item:last-child { border-right: none; }
+.sp-num { font-size: 32px; font-weight: 700; color: #fff; line-height: 1; margin-bottom: 6px; }
+.sp-label { font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.4; }
+@media (max-width: 600px) {
+  .sp-grid { grid-template-columns: 1fr 1fr; }
+  .sp-item { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.2); padding: 20px 12px; }
+  .sp-item:nth-child(odd) { border-right: 1px solid rgba(255,255,255,0.2); }
+  .sp-item:nth-last-child(-n+2) { border-bottom: none; }
+}

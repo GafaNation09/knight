@@ -1,0 +1,29 @@
+
+		#sendbtn,
+		#sendbtn2,
+		.wa-order-button,
+		.gdpr_wa_button_input,
+		a.wa-order-checkout,
+		a.wa-order-thankyou,
+		.shortcode_wa_button,
+		.shortcode_wa_button_nt,
+		.floating_button {
+			-webkit-box-shadow: inset 0px 4px 7px 0px rgba(0,0,0,0.25) !important;
+			-moz-box-shadow: inset 0px 4px 7px 0px rgba(0,0,0,0.25) !important;
+			box-shadow: inset 0px 4px 7px 0px rgba(0,0,0,0.25) !important;
+		}
+
+		#sendbtn:hover,
+		#sendbtn2:hover,
+		.wa-order-button:hover,
+		.gdpr_wa_button_input:hover,
+		a.wa-order-checkout:hover,
+		a.wa-order-thankyou:hover,
+		.shortcode_wa_button:hover,
+		.shortcode_wa_button_nt:hover,
+		.floating_button:hover {
+			-webkit-box-shadow: inset 0px 4px 7px 0px rgba(0,0,0,0.25) !important;
+			-moz-box-shadow: inset 0px 4px 7px 0px rgba(0,0,0,0.25) !important;
+			box-shadow: inset 0px 4px 7px 0px rgba(0,0,0,0.25) !important;
+		}
+	

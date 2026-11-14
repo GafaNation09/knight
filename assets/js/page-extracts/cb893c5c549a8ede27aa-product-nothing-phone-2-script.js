@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Nothing Phone 2","status":null,"description":"<h2>Nothing Phone 2 In Kenya<\/h2>\r\nNothing Phone 2 price in Kenya is Ksh 68,000. The Nothing Phone (2) runs on the Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm) processor with","currency":"KES","tags":[],"images":[],"variants":{"45429":{"variantID":"45429","title":"Nothing Phone 2","status":null,"price":6800000,"imageID":"47037","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2023\/02\/Nothing-Phone-2.jpg"},"50848":{"variantID":"50848","title":"Nothing Phone 2 - 256GB","status":"inStock","price":6800000,"oldPrice":7000000,"imageID":"47037","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2023\/02\/Nothing-Phone-2.jpg","customFields":{"attribute_pa_internal-storage":"256gb"}}},"productID":"45429","productUrl":"https:\/\/phonesstorekenya.com\/product\/nothing-phone-2\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

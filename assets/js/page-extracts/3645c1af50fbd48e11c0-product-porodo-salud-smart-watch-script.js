@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Porodo Salud Smart Watch","status":null,"description":"<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_3qr_\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"22\" aria-posinset=\"22\" aria-label=\"Message 22 of 22\">\r\n<div>\r\n<h2 dir=\"ltr\">Porodo Salud Smart Watch Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Porodo Salud Smart Watch","currency":"KES","tags":[],"images":[],"variants":{"77730":{"variantID":"77730","title":"Porodo Salud Smart Watch","status":null,"price":650000,"imageID":"77964","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Porodo-Salud-Smart-Watch-Price-in-Kenya-2.png"}},"productID":"77730","productUrl":"https:\/\/phonesstorekenya.com\/product\/porodo-salud-smart-watch\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

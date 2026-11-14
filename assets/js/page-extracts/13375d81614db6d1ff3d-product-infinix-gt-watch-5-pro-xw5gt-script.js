@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Infinix GT Watch 5 Pro (XW5GT)","status":null,"description":"<div class=\"mx-auto flex w-full max-w-3xl flex-1 flex-col px-5 md:px- max-md: max-md: max-md: pt-1\" data-testid=\"transcript-list\">\r\n<div role=\"feed\" data-perf-region=\"transcript\" aria-label=\"Chat messages\" aria-describedby=\"_r_hd_\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\" data-rocksteady-sizer=\"\" data-testid=\"transcript-sizer\">\r\n<div data-rs-index=\"177\" data-index=\"177\" data-testid=\"transcript-row\" data-last-message=\"true\" data-perf-row=\"assistant\" data-perf-row-from-tail=\"0\" data-perf-row-streaming=\"false\">\r\n<div","currency":"KES","tags":[],"images":[],"variants":{"76195":{"variantID":"76195","title":"Infinix GT Watch 5 Pro (XW5GT)","status":null,"price":600000,"imageID":"76208","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/09\/Infinix-GT-Watch-5-Pro-XW5GT.png"}},"productID":"76195","productUrl":"https:\/\/phonesstorekenya.com\/product\/infinix-gt-watch-5-pro-xw5gt\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

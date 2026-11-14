@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Porodo TrackFit Evo Smart Health Tracking Band","status":null,"description":"<h2>Porodo TrackFit Evo Smart Health Tracking Band Price in Kenya<\/h2>\r\nThe <strong>Porodo TrackFit Evo Smart Health Tracking Band price in Kenya<\/strong> is <strong>KSh 5,500<\/strong>, giving health-conscious users a light, comfortable band","currency":"KES","tags":[],"images":[],"variants":{"77728":{"variantID":"77728","title":"Porodo TrackFit Evo Smart Health Tracking Band","status":null,"price":550000,"imageID":"78325","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Porodo-TrackFit-Evo-Smart-Health-Tracking-Band-Price-in-Kenya-3.png"}},"productID":"77728","productUrl":"https:\/\/phonesstorekenya.com\/product\/porodo-trackfit-evo-smart-health-tracking-band\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

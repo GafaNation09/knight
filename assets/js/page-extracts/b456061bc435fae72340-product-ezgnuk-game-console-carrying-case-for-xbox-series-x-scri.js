@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Ezgnuk Game Console Carrying Case for Xbox Series X","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"168\" aria-posinset=\"168\" aria-label=\"Message 168 of 168\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">Ezgnuk Game Console Carrying Case for Xbox Series X Price in Kenya, Full Specifications and Review","currency":"KES","tags":[],"images":[],"variants":{"78198":{"variantID":"78198","title":"Ezgnuk Game Console Carrying Case for Xbox Series X","status":null,"price":1050000,"imageID":"78414","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Ezgnuk-Game-Console-Carrying-Case-for-Xbox-Series-X.png"}},"productID":"78198","productUrl":"https:\/\/phonesstorekenya.com\/product\/ezgnuk-game-console-carrying-case-for-xbox-series-x\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

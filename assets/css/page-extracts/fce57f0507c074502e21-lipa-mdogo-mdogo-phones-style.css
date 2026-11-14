@@ -1,0 +1,11 @@
+
+.tb-wrap { display: grid; grid-template-columns: repeat(5, 1fr); background: #0787ea; font-family: inherit; }
+.tb-item { display: flex; align-items: center; justify-content: center; gap: 8px; padding: 14px 10px; font-size: 13px; color: #fff; border-right: 1px solid rgba(255,255,255,0.15); text-align: center; }
+.tb-item:last-child { border-right: none; }
+.tb-dot { width: 7px; height: 7px; border-radius: 50%; background: #fff; flex-shrink: 0; }
+@media (max-width: 640px) {
+  .tb-wrap { grid-template-columns: 1fr 1fr; }
+  .tb-item { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.15); padding: 12px 8px; font-size: 12px; }
+  .tb-item:nth-child(odd) { border-right: 1px solid rgba(255,255,255,0.15); }
+  .tb-item:last-child { grid-column: 1 / -1; border-right: none; border-bottom: none; }
+}

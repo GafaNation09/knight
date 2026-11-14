@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"DualSense Wireless Controller - Marvel's Wolverine Limited Edition","status":null,"description":"<h2>DualSense Wireless Controller \u2013 Marvel's Wolverine Limited Edition Price in Kenya<\/h2>\r\nThe DualSense Wireless Controller \u2013 Marvel's Wolverine Limited Edition price in Kenya is KSh 18,000, bringing a collector-style controller inspired","currency":"KES","tags":[],"images":[],"variants":{"78184":{"variantID":"78184","title":"DualSense Wireless Controller - Marvel's Wolverine Limited Edition","status":null,"price":1800000,"imageID":"78502","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/DualSense-Wireless-Controller-Marvels-Wolverine-Limited-Edition-Price-in-Kenya.png"}},"productID":"78184","productUrl":"https:\/\/phonesstorekenya.com\/product\/dualsense-wireless-controller-marvels-wolverine-limited-edition\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

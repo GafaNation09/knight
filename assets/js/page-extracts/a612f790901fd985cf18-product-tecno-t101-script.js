@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno T101","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_83_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"102\" aria-posinset=\"102\" aria-label=\"Message 102 of 102\">\r\n<h2 dir=\"ltr\">Tecno T101 Dual Sim Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Tecno T101 Dual Sim","currency":"KES","tags":[],"images":[],"variants":{"57467":{"variantID":"57467","title":"Tecno T101","status":null,"price":320000,"imageID":"57523","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/07\/Tecno-T101.jpg"}},"productID":"57467","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-t101\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

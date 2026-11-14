@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Motorola Moto G87 5G","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_1qt_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"34\" aria-posinset=\"34\" aria-label=\"Message 34 of 34\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">Motorola Moto G87 Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<h3 dir=\"ltr\" aria-level=\"5\">Motorola Moto G87 Price","currency":"KES","tags":[],"images":[],"variants":{"79196":{"variantID":"79196","title":"Motorola Moto G87 5G","status":null,"price":4850000,"imageID":"79198","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/11\/Motorola-Moto-G87-5G-Price-in-Kenya.png"}},"productID":"79196","productUrl":"https:\/\/phonesstorekenya.com\/product\/motorola-moto-g87-5g\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

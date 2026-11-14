@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Oraimo Watch 6 Lite Smart Watch","status":null,"description":"<h2>Oraimo Watch 6 Lite Smart Watch Price in Kenya<\/h2>\r\nThe Oraimo Watch 6 Lite Smart Watch price in Kenya is KSh 3,800, bringing a large 2.01-inch HD display, Bluetooth calling, and","currency":"KES","tags":[],"images":[],"variants":{"79122":{"variantID":"79122","title":"Oraimo Watch 6 Lite Smart Watch","sku":"OSW-809","status":null,"price":380000,"imageID":"79261","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/11\/Oraimo-Watch-6-Lite-Smart-Watch-Price-in-Kenya.png"}},"productID":"79122","productUrl":"https:\/\/phonesstorekenya.com\/product\/oraimo-watch-6-lite-smart-watch\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

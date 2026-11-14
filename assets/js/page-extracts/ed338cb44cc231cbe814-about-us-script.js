@@ -1,0 +1,1 @@
+FacebookSignal.init({"held":false,"ajaxUrl":"https:\/\/phonesstorekenya.com\/wp-admin\/admin-ajax.php","releaseAction":"fbpix_release_signals","pixelId":"270221090948026","attribution":{},"capig":"1"});FacebookSignal.initPixel("270221090948026",{},{"agent":"wordpress_0-7.1.4-5.2.2","includeCapiIntegration":true});

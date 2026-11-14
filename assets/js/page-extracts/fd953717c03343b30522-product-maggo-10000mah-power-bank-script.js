@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Anker MagGo 10000mAh Power Bank Ultra-Fast 15W Power Bank with LED Display","status":null,"description":"<h2 class=\"text-text-100 mt-3 -mb-1 text- font-bold\">Anker MagGo 10000mAh Power Bank Price in Kenya (2026) \u2013 Full Specs &amp; Overview<\/h2>\r\n<p class=\"font-claude-response-body break-words whitespace-normal leading-\">The Power Bank with LED Display price in","currency":"KES","tags":[],"images":[],"variants":{"67423":{"variantID":"67423","title":"Anker MagGo 10000mAh Power Bank Ultra-Fast 15W Power Bank with LED Display","status":null,"price":600000,"imageID":"67428","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/04\/Anker-MagGo-10000mAh-Ultra-Fast-15W-Power-Bank-with-LED-Display.png"}},"productID":"67423","productUrl":"https:\/\/phonesstorekenya.com\/product\/maggo-10000mah-power-bank\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

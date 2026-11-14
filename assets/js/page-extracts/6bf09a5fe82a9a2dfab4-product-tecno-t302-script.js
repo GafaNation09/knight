@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno T302","status":null,"description":"<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_83_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"98\" aria-posinset=\"98\" aria-label=\"Message 98 of 98\">\r\n<h2 dir=\"ltr\">Tecno T302 Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Tecno T302 price in Kenya is","currency":"KES","tags":[],"images":[],"variants":{"57465":{"variantID":"57465","title":"Tecno T302","status":null,"price":330000,"imageID":"57521","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/07\/Itel-T302.jpg"}},"productID":"57465","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-t302\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

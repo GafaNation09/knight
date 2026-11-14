@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Jaffzora Game Console Travel Backpack","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"170\" aria-posinset=\"170\" aria-label=\"Message 170 of 170\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">Jaffzora Game Console Travel Backpack Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Jaffzora Game","currency":"KES","tags":[],"images":[],"variants":{"78199":{"variantID":"78199","title":"Jaffzora Game Console Travel Backpack","status":null,"price":1100000,"imageID":"78440","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Jaffzora-Game-Console-Travel-Backpack-Price-in-Kenya.png"}},"productID":"78199","productUrl":"https:\/\/phonesstorekenya.com\/product\/jaffzora-game-console-travel-backpack\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Switch Lite Silicone Cover for Nintendo","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_c9_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"124\" aria-posinset=\"124\" aria-label=\"Message 124 of 124\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">Switch Lite Silicone Cover Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Switch Lite Silicone Cover","currency":"KES","tags":[],"images":[],"variants":{"78177":{"variantID":"78177","title":"Switch Lite Silicone Cover for Nintendo","status":null,"price":350000,"imageID":"78641","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Switch-Lite-Silicone-Cover-for-Nintendo-Price-in-Kenya.png"}},"productID":"78177","productUrl":"https:\/\/phonesstorekenya.com\/product\/switch-lite-silicone-cover\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

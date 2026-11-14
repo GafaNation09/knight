@@ -1,0 +1,48 @@
+
+.s26-faq-wrap{font-family:inherit;max-width:100%}
+.s26-faq-wrap h2{margin-bottom:14px;color:#0070C8 !important}
+
+.s26-faq-search{position:relative;margin-bottom:22px}
+.s26-faq-search svg{position:absolute;left:14px;top:50%;transform:translateY(-50%)}
+.s26-faq-search input{
+  width:100%;box-sizing:border-box;padding:12px 14px 12px 40px;
+  border:1px solid #dde3ea;border-radius:8px;font-size:15px;color:#1a1a1a;
+  background:#f8fafc;transition:border-color .15s ease, background .15s ease;
+}
+.s26-faq-search input:focus{outline:none;border-color:#0070C8;background:#ffffff}
+
+.s26-faq-empty{padding:16px 0;color:#8a94a1;font-style:italic}
+
+.s26-faq-category{
+  color:#E60000 !important;font-size:13px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;margin:26px 0 2px;
+}
+.s26-faq-category:first-of-type{margin-top:8px}
+
+.s26-faq-item{border:none;border-bottom:1px solid #e5e9ee}
+.s26-faq-item summary{
+  list-style:none;cursor:pointer;padding:15px 4px;font-weight:600;color:#1a1a1a;
+  display:flex;justify-content:space-between;align-items:center;gap:16px;
+  transition:color .15s ease;
+}
+.s26-faq-item summary:hover{color:#0070C8}
+.s26-faq-item summary::-webkit-details-marker{display:none}
+.s26-faq-item summary::after{
+  content:"";width:9px;height:9px;border-right:2px solid #0070C8;border-bottom:2px solid #0070C8;
+  transform:rotate(45deg);transition:transform .25s ease;flex-shrink:0;
+}
+.s26-faq-item[open] summary::after{transform:rotate(-135deg)}
+
+.s26-faq-answer{display:grid;grid-template-rows:0fr;transition:grid-template-rows .25s ease}
+.s26-faq-item[open] .s26-faq-answer{grid-template-rows:1fr}
+.s26-faq-inner{overflow:hidden;color:#555;line-height:1.65;padding-right:26px}
+.s26-faq-item[open] .s26-faq-inner{padding-bottom:16px}
+
+.s26-faq-item mark{background:#E8F2FB;color:#0070C8;border-radius:2px;padding:0 1px}
+
+.s26-faq-cta{
+  margin-top:28px;padding:16px 18px;background:#F3F8FD;border-left:3px solid #0070C8;border-radius:8px;
+  color:#1a1a1a;font-size:15px;
+}
+.s26-faq-cta a{color:#0070C8;font-weight:600;text-decoration:none}
+.s26-faq-cta a:hover{text-decoration:underline}

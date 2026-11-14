@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Tecno T315","status":null,"description":"<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_83_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"104\" aria-posinset=\"104\" aria-label=\"Message 104 of 104\">\r\n<h2 dir=\"ltr\">Tecno T315 Dual Sim Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Tecno T315 Dual Sim","currency":"KES","tags":[],"images":[],"variants":{"57468":{"variantID":"57468","title":"Tecno T315","status":null,"price":360000,"imageID":"57524","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/07\/Itel-T315.jpg"}},"productID":"57468","productUrl":"https:\/\/phonesstorekenya.com\/product\/tecno-t315\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Infinix GT 50 Pro","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_16r_\">\r\n<div>\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"48\" aria-posinset=\"48\" aria-label=\"Message 48 of 48\">\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">Infinix GT 50 Pro Price in Kenya<\/h2>\r\n<p dir=\"ltr\">The Infinix GT 50 Pro price in Kenya is KSh","currency":"KES","tags":[],"images":[],"variants":{"73463":{"variantID":"73463","title":"Infinix GT 50 Pro","status":null,"price":5700000,"oldPrice":5900000,"imageID":"73464","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/07\/Infinix-GT-50-Pro.png"}},"productID":"73463","productUrl":"https:\/\/phonesstorekenya.com\/product\/infinix-gt-50-pro\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

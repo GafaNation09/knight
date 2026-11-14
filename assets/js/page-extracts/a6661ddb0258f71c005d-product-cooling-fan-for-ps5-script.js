@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Cooling Fan for PS5","status":null,"description":"<div>\r\n<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_c9_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"138\" aria-posinset=\"138\" aria-label=\"Message 138 of 138\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\">Cooling Fan for PS5 Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Cooling Fan for PS5","currency":"KES","tags":[],"images":[],"variants":{"78185":{"variantID":"78185","title":"Cooling Fan for PS5","status":null,"price":450000,"imageID":"78577","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Cooling-Fan-for-PS5-Price-in-Kenya-3.png"}},"productID":"78185","productUrl":"https:\/\/phonesstorekenya.com\/product\/cooling-fan-for-ps5\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

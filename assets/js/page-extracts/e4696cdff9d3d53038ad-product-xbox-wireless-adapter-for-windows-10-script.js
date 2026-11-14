@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Xbox Wireless Adapter for Windows 10","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"164\" aria-posinset=\"164\" aria-label=\"Message 164 of 164\">\r\n<div>\r\n<div>\r\n<h2 dir=\"ltr\" aria-level=\"4\">Xbox Wireless Adapter for Windows 10 Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Xbox","currency":"KES","tags":[],"images":[],"variants":{"78196":{"variantID":"78196","title":"Xbox Wireless Adapter for Windows 10","status":null,"price":650000,"imageID":"78460","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Xbox-Wireless-Adapter-for-Windows-10-Price-in-Kenya.png"}},"productID":"78196","productUrl":"https:\/\/phonesstorekenya.com\/product\/xbox-wireless-adapter-for-windows-10\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

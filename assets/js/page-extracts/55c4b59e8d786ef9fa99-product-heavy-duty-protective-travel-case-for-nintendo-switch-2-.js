@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Heavy Duty Protective Travel Case for Nintendo Switch 2","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_79_\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"36\" aria-posinset=\"36\" aria-label=\"Message 36 of 36\">\r\n<h2 dir=\"ltr\" aria-level=\"4\">Heavy Duty Protective Travel Case for Nintendo Switch 2 Price in Kenya, Full Specifications and Review","currency":"KES","tags":[],"images":[],"variants":{"78188":{"variantID":"78188","title":"Heavy Duty Protective Travel Case for Nintendo Switch 2","status":null,"price":600000,"imageID":"78574","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Heavy-Duty-Protective-Travel-Case-for-Nintendo-Switch-2-Price-in-Kenya.png"}},"productID":"78188","productUrl":"https:\/\/phonesstorekenya.com\/product\/heavy-duty-protective-travel-case-for-nintendo-switch-2\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

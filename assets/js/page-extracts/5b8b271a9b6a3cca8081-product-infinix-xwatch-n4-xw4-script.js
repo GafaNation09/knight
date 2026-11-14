@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Infinix XWatch N4 (XW4)","status":null,"description":"<div>\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_hd_\">\r\n<div>\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"182\" aria-posinset=\"182\" aria-label=\"Message 182 of 182\">\r\n<h2 dir=\"ltr\">Infinix XWatch N4 (XW4) Price in Kenya, Full Specifications and Review (2026)<\/h2>\r\n<p dir=\"ltr\">The Infinix XWatch N4 (XW4)","currency":"KES","tags":[],"images":[],"variants":{"76196":{"variantID":"76196","title":"Infinix XWatch N4 (XW4)","status":null,"price":400000,"imageID":"76217","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/09\/Infinix-XWatch-N4-XW4.png"}},"productID":"76196","productUrl":"https:\/\/phonesstorekenya.com\/product\/infinix-xwatch-n4-xw4\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

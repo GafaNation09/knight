@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"JBQ RoadPwr LED Display Car Power Inverter","status":null,"description":"<div class=\"flex-1 flex flex-col px-4 max-w-3xl mx-auto w-full pt-1\">\r\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_320_\" aria-busy=\"false\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\">\r\n<div data-index=\"165\" data-last-message=\"true\">\r\n<div tabindex=\"0\" role=\"article\" aria-setsize=\"166\" aria-posinset=\"166\" aria-label=\"Message 166 of 166\">\r\n<div data-test-render-count=\"1\">\r\n<div class=\"group\">\r\n<div class=\"contents\">\r\n<div class=\"group","currency":"KES","tags":[],"images":[],"variants":{"70855":{"variantID":"70855","title":"JBQ RoadPwr LED Display Car Power Inverter","status":null,"price":550000,"oldPrice":650000,"imageID":"70856","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/05\/JBQ-RoadPwr-LED-Display-Car-Power-Inverter.png"}},"productID":"70855","productUrl":"https:\/\/phonesstorekenya.com\/product\/jbq-roadpwr\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

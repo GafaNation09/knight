@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Infinix Hot 60 Pro","status":null,"description":"<h2>Infinix Hot 60 Pro Price In Kenya<\/h2>\r\nThe Infinix Hot 60 Pro Price in Kenya is Ksh 18,800. Infinix Hot 60 Pro runs on the Mediatek Helio G99 (6nm) processor with","currency":"KES","tags":[],"images":[],"variants":{"57124":{"variantID":"57124","title":"Infinix Hot 60 Pro","status":null,"price":1880000,"imageID":"58093","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/06\/sapphireblue_01_4.png"},"61498":{"variantID":"61498","title":"Infinix Hot 60 Pro - 8GB\/128GB","status":"outOfStock","price":1880000,"imageID":"58093","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2025\/06\/sapphireblue_01_4.png","customFields":{"attribute_pa_internal-storage":"8gb-128gb"}}},"productID":"57124","productUrl":"https:\/\/phonesstorekenya.com\/product\/infinix-hot-60-pro\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

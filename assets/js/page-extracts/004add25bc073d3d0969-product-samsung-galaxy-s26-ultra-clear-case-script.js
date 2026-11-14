@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Samsung Galaxy S26 Ultra Clear Case","status":null,"description":"<h2>Samsung Galaxy S26 Ultra Clear Case Price in Kenya<\/h2>\r\n<p data-start=\"214\" data-end=\"412\">The Galaxy S26 Ultra Clear Case price in Kenya is KES 1,500 \u2013 KES 2,500 (depending on availability), making it","currency":"KES","tags":[],"images":[],"variants":{"66328":{"variantID":"66328","title":"Samsung Galaxy S26 Ultra Clear Case","status":null,"price":550000,"imageID":"66337","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/03\/Samsung-Galaxy-S26-Ultra-Clear-Case.png"}},"productID":"66328","productUrl":"https:\/\/phonesstorekenya.com\/product\/samsung-galaxy-s26-ultra-clear-case\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

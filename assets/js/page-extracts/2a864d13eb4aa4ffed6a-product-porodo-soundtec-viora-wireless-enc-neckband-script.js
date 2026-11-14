@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Porodo Soundtec Viora Wireless ENC Neckband","status":null,"description":"<h2>Porodo Soundtec Viora Wireless ENC Neckband Price in Kenya<\/h2>\r\nThe <strong>Porodo Soundtec Viora Wireless ENC Neckband price in Kenya<\/strong> is <strong>KSh 3,300<\/strong>, offering an affordable wireless neckband with bass-boosted sound and","currency":"KES","tags":[],"images":[],"variants":{"77727":{"variantID":"77727","title":"Porodo Soundtec Viora Wireless ENC Neckband","status":null,"price":330000,"imageID":"78337","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/10\/Porodo-Soundtec-Viora-Wireless-ENC-Neckband-Price-in-Kenya.png"}},"productID":"77727","productUrl":"https:\/\/phonesstorekenya.com\/product\/porodo-soundtec-viora-wireless-enc-neckband\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    

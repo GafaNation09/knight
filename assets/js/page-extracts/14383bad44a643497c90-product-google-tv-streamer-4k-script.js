@@ -1,0 +1,5 @@
+ 
+
+                        omnisend_product = {"title":"Google TV Streamer 4K","status":null,"description":"<div class=\"flex-1 flex flex-col px-4 max-w-3xl mx-auto w-full pt-1\" data-testid=\"transcript-list\">\r\n<div role=\"feed\" data-perf-region=\"transcript\" aria-label=\"Chat messages\" aria-describedby=\"_r_2fa_\" data-find-provider-scope=\"\">\r\n<div data-sizer-excess=\"0\" data-rocksteady-sizer=\"\" data-testid=\"transcript-sizer\">\r\n<div data-rs-index=\"401\" data-index=\"401\" data-testid=\"transcript-row\" data-last-message=\"true\">\r\n<div class=\"rounded-lg focus-visible:shadow-focus focus-visible:outline-hidden\" tabindex=\"0\" role=\"article\" aria-setsize=\"402\" aria-posinset=\"402\"","currency":"KES","tags":[],"images":[],"variants":{"74514":{"variantID":"74514","title":"Google TV Streamer 4K","status":null,"price":1800000,"imageID":"74516","imageUrl":"https:\/\/phonesstorekenya.com\/wp-content\/uploads\/2026\/08\/Google-TV-Streamer-4K.png"}},"productID":"74514","productUrl":"https:\/\/phonesstorekenya.com\/product\/google-tv-streamer-4k\/","categoryIDs":null,"createdAt":null,"updatedAt":null,"published":true} 
+
+                    
